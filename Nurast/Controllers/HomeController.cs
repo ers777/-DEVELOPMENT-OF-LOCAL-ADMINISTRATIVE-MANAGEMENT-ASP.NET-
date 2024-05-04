@@ -15,7 +15,7 @@ namespace Nurast.Controllers
 
         public HomeController()
         {
-          
+          /*ddddddd*/
         }
 
         public async Task<IActionResult> Index()
