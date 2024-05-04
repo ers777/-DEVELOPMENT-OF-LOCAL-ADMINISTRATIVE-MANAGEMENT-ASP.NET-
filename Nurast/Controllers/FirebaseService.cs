@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Nurast.Controllers
 {
+    /*йцукен*/
     public class FirebaseService
     {
         private IFirebaseClient client;
