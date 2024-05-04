@@ -1,0 +1,641 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Nurast.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Nurast.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\css\\fontAwesome.css",
+      "PackagePath": "staticwebassets\\css\\fontAwesome.css"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\css\\fonts\\flexslider-icon.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\flexslider-icon.eot"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\css\\fonts\\flexslider-icon.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\flexslider-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\css\\fonts\\flexslider-icon.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\flexslider-icon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\css\\fonts\\flexslider-icon.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\flexslider-icon.woff"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\css\\hero-slider.css",
+      "PackagePath": "staticwebassets\\css\\hero-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\css\\reg.css",
+      "PackagePath": "staticwebassets\\css\\reg.css"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\css\\tooplate-style.css",
+      "PackagePath": "staticwebassets\\css\\tooplate-style.css"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\Kop_Amita_white.png",
+      "PackagePath": "staticwebassets\\img\\Kop_Amita_white.png"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\Tourism.jpeg",
+      "PackagePath": "staticwebassets\\img\\Tourism.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\arrow_vlevo.svg",
+      "PackagePath": "staticwebassets\\img\\arrow_vlevo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\arrrow_pravo.svg",
+      "PackagePath": "staticwebassets\\img\\arrrow_pravo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\black_logo.png",
+      "PackagePath": "staticwebassets\\img\\black_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\blog-bg.png",
+      "PackagePath": "staticwebassets\\img\\blog-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\blog_01.jpg",
+      "PackagePath": "staticwebassets\\img\\blog_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\blog_02.jpg",
+      "PackagePath": "staticwebassets\\img\\blog_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\blog_03.jpg",
+      "PackagePath": "staticwebassets\\img\\blog_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\close.png",
+      "PackagePath": "staticwebassets\\img\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\collage.png",
+      "PackagePath": "staticwebassets\\img\\collage.png"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\contact-bg.png",
+      "PackagePath": "staticwebassets\\img\\contact-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\first-service-main.png",
+      "PackagePath": "staticwebassets\\img\\first-service-main.png"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\first-service-white.png",
+      "PackagePath": "staticwebassets\\img\\first-service-white.png"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\fourth-service-main.png",
+      "PackagePath": "staticwebassets\\img\\fourth-service-main.png"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\fourth-service-white.png",
+      "PackagePath": "staticwebassets\\img\\fourth-service-white.png"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\kop_Amita.png",
+      "PackagePath": "staticwebassets\\img\\kop_Amita.png"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\kop_DR_sugiyama.png",
+      "PackagePath": "staticwebassets\\img\\kop_DR_sugiyama.png"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\kop_ss.jpg",
+      "PackagePath": "staticwebassets\\img\\kop_ss.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\loading.gif",
+      "PackagePath": "staticwebassets\\img\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\next.png",
+      "PackagePath": "staticwebassets\\img\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\portfolio_01.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\portfolio_02.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\portfolio_03.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\portfolio_04.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\portfolio_05.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio_05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\portfolio_06.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio_06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\portfolio_07.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio_07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\portfolio_08.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio_08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\portfolio_big_01.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio_big_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\portfolio_big_02.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio_big_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\portfolio_big_03.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio_big_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\portfolio_big_04.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio_big_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\portfolio_big_05.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio_big_05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\portfolio_big_06.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio_big_06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\portfolio_big_07.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio_big_07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\portfolio_big_08.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio_big_08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\prev.png",
+      "PackagePath": "staticwebassets\\img\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\second-service-main.png",
+      "PackagePath": "staticwebassets\\img\\second-service-main.png"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\second-service-white.png",
+      "PackagePath": "staticwebassets\\img\\second-service-white.png"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\slide_01.jpg",
+      "PackagePath": "staticwebassets\\img\\slide_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\slide_02.jpg",
+      "PackagePath": "staticwebassets\\img\\slide_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\slide_03.jpg",
+      "PackagePath": "staticwebassets\\img\\slide_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\third-service-main.png",
+      "PackagePath": "staticwebassets\\img\\third-service-main.png"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\third-service-white.png",
+      "PackagePath": "staticwebassets\\img\\third-service-white.png"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\what-we-do-bg.png",
+      "PackagePath": "staticwebassets\\img\\what-we-do-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\what-we-do-right-image.png",
+      "PackagePath": "staticwebassets\\img\\what-we-do-right-image.png"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\white_logo.png",
+      "PackagePath": "staticwebassets\\img\\white_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\js\\vendor\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\js\\vendor\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\js\\vendor\\jquery-1.11.2.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-1.11.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\js\\vendor\\modernizr-2.8.3-respond-1.4.2.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\modernizr-2.8.3-respond-1.4.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\js\\vendor\\npm.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\npm.js"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\slick\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\slick\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\slick\\config.rb",
+      "PackagePath": "staticwebassets\\slick\\config.rb"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\slick\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\slick\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\slick\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\slick\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\slick\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\slick\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\slick\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\slick\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\slick\\slick-theme.css",
+      "PackagePath": "staticwebassets\\slick\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\slick\\slick-theme.less",
+      "PackagePath": "staticwebassets\\slick\\slick-theme.less"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\slick\\slick-theme.scss",
+      "PackagePath": "staticwebassets\\slick\\slick-theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\slick\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\slick\\slick.js",
+      "PackagePath": "staticwebassets\\slick\\slick.js"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\slick\\slick.less",
+      "PackagePath": "staticwebassets\\slick\\slick.less"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\slick\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\slick\\slick.scss",
+      "PackagePath": "staticwebassets\\slick\\slick.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Nurast.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Nurast.props",
+      "PackagePath": "build\\Nurast.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Nurast.props",
+      "PackagePath": "buildMultiTargeting\\Nurast.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Nurast.props",
+      "PackagePath": "buildTransitive\\Nurast.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

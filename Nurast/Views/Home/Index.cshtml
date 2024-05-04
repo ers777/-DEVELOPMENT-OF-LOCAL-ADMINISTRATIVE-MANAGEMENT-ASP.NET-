@@ -1,0 +1,610 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model Nurast.Models.HomeViewModel
+
+
+
+
+
+
+<div class="header">
+    <div class="container">
+        <nav class="navbar navbar-inverse" role="navigation">
+            <div class="navbar-header">
+                <button type="button" id="nav-toggle" class="navbar-toggle" data-toggle="collapse" data-target="#main-nav">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a href="#" class="navbar-brand scroll-top">
+                    <div class="logo"></div>
+                </a>
+            </div>
+            <!--/.navbar-header-->
+            <div id="main-nav" class="collapse navbar-collapse">
+                <ul class="nav navbar-nav">
+                    <li><a href="#" class="scroll-top">Басты бет</a></li>
+                    <li><a href="#" class="scroll-link" data-id="about">Жаңалықтар</a></li>
+                    <li><a href="#" class="scroll-link" data-id="portfolio">Вакансиялар</a></li>
+                    <li><a href="#" class="scroll-link" data-id="blog">Жоспарлар</a></li>
+                    <li><a href="#" class="scroll-link" data-id="contact">CONTACT US</a></li>
+                    <li><a asp-controller="Home" asp-action="Login">Кіру</a></li>
+                </ul>
+            </div>
+            <!--/.navbar-collapse-->
+        </nav>
+        <!--/.navbar-->
+    </div>
+    <!--/.container-->
+</div>
+<section class="cd-hero">
+    <ul class="cd-hero-slider autoplay">
+        <!--
+            <ul class="cd-hero-slider autoplay"> for slider auto play
+            <ul class="cd-hero-slider"> for disabled auto play
+        -->
+        <li class="selected first-slide">
+            <div class="cd-full-width">
+                <div class="tm-slide-content-div slide-caption">
+                    <span>Introduction to</span>
+                    <h2>Kopzhasar</h2>
+                    <p>Команда-бұл жай ғана адамдар тобы емес, олардың ынтымақтастығы мен бір-біріне деген құрметінің арқасында керемет биіктерге жетуге қабілетті бірлік</p>
+                    <div class="primary-button">
+                        <a href="#" class="scroll-link" data-id="about">Көбірек Біліңіз</a>
+                    </div>
+                </div>
+            </div> <!-- .cd-full-width -->
+        </li>
+
+        <li class="second-slide">
+            <div class="cd-full-width">
+                <div class="tm-slide-content-div slide-caption">
+                    <span>We Are Perfect Staffs</span>
+                    <h2>Біріккен күш: бірге ұлы биіктерге</h2>
+                    <p>Үлкен жетістіктерге ешқашан жалғыз қол жеткізілмейді. Олар ұжымдық күш-жігердің, өзара түсіністік пен қолдаудың арқасында мүмкін болады.</p>
+                    <div class="primary-button">
+                        <a href="#">Толығырақ</a>
+                    </div>
+                </div>
+            </div> <!-- .cd-full-width -->
+        </li>
+
+        <li class="third-slide">
+            <div class="cd-full-width">
+                <div class="tm-slide-content-div slide-caption">
+                    <span>Design is a hobby</span>
+                    <h2>Өнер ретінде ынтымақтастық: бірге шедеврге</h2>
+                    <p>Кез – келген хобби сияқты, командада әр мүше өз рөлін атқарады-мейлі ол құрылысшы, суретші немесе зерттеуші болсын. Тек бірге олар шедевр жасайды.</p>
+                    <div class="primary-button">
+                        <a href="#">Мәліметтерді Қарау</a>
+                    </div>
+                </div>
+            </div> <!-- .cd-full-width -->
+        </li>
+    </ul> <!-- .cd-hero-slider -->
+
+    <div class="cd-slider-nav">
+        <nav>
+            <span class="cd-marker item-1"></span>
+
+            <ul>
+                <li class="selected"><a href="#0"></a></li>
+                <li><a href="#0"></a></li>
+                <li><a href="#0"></a></li>
+            </ul>
+        </nav>
+    </div> <!-- .cd-slider-nav -->
+</section> <!-- .cd-hero -->
+
+<div id="about" class="page-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="section-heading">
+                    <h4>Жаңалықтар</h4>
+                    <div class="line-dec"></div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="slick1">
+               
+                @foreach (var item in Model.News)
+                {
+                    <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="service-item second-service">
+                        <div class="icon"></div>
+                            <h4>@item.Value.title</h4>
+                            <p>@item.Value.descr</p>
+                        </div>
+					</div>
+                }
+
+                
+                
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="service-item third-service">
+                        <div class="icon"></div>
+                        <h4>Good Profit</h4>
+                        <p>Biodiesel schltz suculents phone cliche ramps snackwave coloring book tumeric poke, typewriter.</p>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="service-item fourth-service">
+                        <div class="icon"></div>
+                        <h4>Open To Public</h4>
+                        <p>Biodiesel schltz suculents phone cliche ramps snackwave coloring book tumeric poke, typewriter.</p>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="service-item first-service">
+                        <div class="icon"></div>
+                        <h4>Easy Customizations</h4>
+                        <p>Meteor is free HTML website template by Tooplate. Feel free to use this layout for your project.</p>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="service-item first-service">
+                        <div class="icon"></div>
+                        <h4>Easy Customizations</h4>
+                        <p>Meteor is free HTML website template by Tooplate. Feel free to use this layout for your project.</p>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="service-item second-service">
+                        <div class="icon"></div>
+                        <h4>Creative Ideas</h4>
+                        <p>Biodiesel schltz suculents phone cliche ramps snackwave coloring book tumeric poke, typewriter.</p>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="service-item third-service">
+                        <div class="icon"></div>
+                        <h4>Good Profit</h4>
+                        <p>Biodiesel schltz suculents phone cliche ramps snackwave coloring book tumeric poke, typewriter.</p>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="service-item fourth-service">
+                        <div class="icon"></div>
+                        <h4>Open To Public</h4>
+                        <p>Biodiesel schltz suculents phone cliche ramps snackwave coloring book tumeric poke, typewriter.</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<div id="what-we-do">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="left-text">
+                    <h4>Біз туралы</h4>
+                    <p>Көпжасар қаласы әкімдігінің сайтына қош келдіңіздер! Біз қаламызды күн сайын көркейту үшін жұмыс істейтін кәсіби мамандар командасымыз. Біз тұрғындардың жайлылығына, қауіпсіздігіне және дамуына ықпал ететін әртүрлі қызметтер мен инфрақұрылымды ұсына отырып, қолайлы және прогрессивті өмір сүру ортасын құруға тырысамыз.<br><br>Біздің веб-сайтта сіз біздің жобаларымыз бен бастамаларымыз, әкімшілік ұсынатын қызметтер туралы ақпаратты, сондай-ақ кері байланыс үшін байланыс ақпаратын таба аласыз. Біз өз іс-әрекеттерімізде ашықтық пен ашықтықты бағалаймыз және шешім қабылдау кезінде олардың пікірлері мен қажеттіліктерін ескере отырып, қала тұрғындарымен тығыз қарым-қатынаста болуға ұмтыламыз.</p>
+                    <ul>
+                        <li>
+                            <div class="white-button">
+                                <a href="#" class="scroll-link" data-id="portfolio">Көбірек Біліңіз</a>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="primary-button">
+                                <a href="#">Тіркелу</a>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="right-image">
+                    <img src="img/collage.png" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div id="portfolio" class="page-section">
+    <div class="content-wrapper">
+        <div class="inner-container container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="section-heading">
+                        <h4>Вакансиялар</h4>
+                        <div class="line-dec"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="projects-holder-3">
+                <div class="filter-categories">
+                    <!-- <ul class="project-filter">
+                        <li class="filter" data-filter="all"><span>All</span></li>
+                        <li class="filter" data-filter="nature"><span>Nature</span></li>
+                        <li class="filter" data-filter="workspace"><span>Workspace</span></li>
+                        <li class="filter" data-filter="city"><span>City</span></li>
+                        <li class="filter" data-filter="technology"><span>Technology</span></li>
+                    </ul> -->
+                </div>
+                <div id="slider" class="slick">
+                    <div class="projects-holder">
+                        <div class="row">
+                            @foreach (var item in Model.Vacancies)
+                            {
+                                 <div class="col-md-3 col-sm-6 project-item mix workspace">
+                                <div class="thumb">
+                                        <a class="image ff" href="@Url.Action("Privacy", "Home", new { key = item.Key })">
+                                            <img src="img/portfolio_01.jpg">
+                                        <div class="overlay">@item.Value.title</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                            }
+
+                           
+                            <div class="col-md-3 col-sm-6 project-item mix workspace">
+                                <div class="thumb">
+                                    <div class="image">
+                                        <img src="img/portfolio_02.jpg">
+                                    </div>
+                                    <div class="hover-effect">
+                                        <a href="img/portfolio_big_02.jpg"></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-sm-6 project-item mix technology">
+                                <div class="thumb">
+                                    <div class="image">
+                                        <img src="img/portfolio_03.jpg">
+                                    </div>
+                                    <div class="hover-effect">
+                                        <a href="img/portfolio_big_03.jpg"></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-sm-6 project-item mix city">
+                                <div class="thumb">
+                                    <div class="image">
+                                        <img src="img/portfolio_04.jpg">
+                                    </div>
+                                    <div class="hover-effect">
+                                        <a href="img/portfolio_big_04.jpg"></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-sm-6 project-item mix nature">
+                                <div class="thumb">
+                                    <div class="image">
+                                        <img src="img/portfolio_05.jpg">
+                                    </div>
+                                    <div class="hover-effect">
+                                        <a href="img/portfolio_big_05.jpg"></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-sm-6 project-item mix technology">
+                                <div class="thumb">
+                                    <div class="image">
+                                        <img src="img/portfolio_06.jpg">
+                                    </div>
+                                    <div class="hover-effect">
+                                        <a href="img/portfolio_big_06.jpg"></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-sm-6 project-item mix workspace">
+                                <div class="thumb">
+                                    <div class="image">
+                                        <img src="img/portfolio_07.jpg">
+                                    </div>
+                                    <div class="hover-effect">
+                                        <a href="img/portfolio_big_07.jpg"></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-sm-6 project-item mix city">
+                                <div class="thumb">
+                                    <div class="image">
+                                        <img src="img/portfolio_08.jpg">
+                                    </div>
+                                    <div class="hover-effect">
+                                        <a href="img/portfolio_big_08.jpg"></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="projects-holder">
+                        <div class="row">
+                            <div class="col-md-3 col-sm-6 project-item mix workspace">
+                                <div class="thumb">
+                                    <div class="image">
+                                        <img src="img/portfolio_01.jpg">
+                                    </div>
+                                    <div class="hover-effect">
+                                        <a href="img/portfolio_big_01.jpg"></a>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-sm-6 project-item mix workspace">
+                                <div class="thumb">
+                                    <div class="image">
+                                        <img src="img/portfolio_02.jpg">
+                                    </div>
+                                    <div class="hover-effect">
+                                        <a href="img/portfolio_big_02.jpg"></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-sm-6 project-item mix technology">
+                                <div class="thumb">
+                                    <div class="image">
+                                        <img src="img/portfolio_03.jpg">
+                                    </div>
+                                    <div class="hover-effect">
+                                        <a href="img/portfolio_big_03.jpg"></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-sm-6 project-item mix city">
+                                <div class="thumb">
+                                    <div class="image">
+                                        <img src="img/portfolio_04.jpg">
+                                    </div>
+                                    <div class="hover-effect">
+                                        <a href="img/portfolio_big_04.jpg"></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-sm-6 project-item mix nature">
+                                <div class="thumb">
+                                    <div class="image">
+                                        <img src="img/portfolio_05.jpg">
+                                    </div>
+                                    <div class="hover-effect">
+                                        <a href="img/portfolio_big_05.jpg"></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-sm-6 project-item mix technology">
+                                <div class="thumb">
+                                    <div class="image">
+                                        <img src="img/portfolio_06.jpg">
+                                    </div>
+                                    <div class="hover-effect">
+                                        <a href="img/portfolio_big_06.jpg"></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-sm-6 project-item mix workspace">
+                                <div class="thumb">
+                                    <div class="image">
+                                        <img src="img/portfolio_07.jpg">
+                                    </div>
+                                    <div class="hover-effect">
+                                        <a href="img/portfolio_big_07.jpg"></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-sm-6 project-item mix city">
+                                <div class="thumb">
+                                    <div class="image">
+                                        <img src="img/portfolio_08.jpg">
+                                    </div>
+                                    <div class="hover-effect">
+                                        <a href="img/portfolio_big_08.jpg"></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div id="blog" class="page-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="section-heading">
+                    <h4>Жоспарлар</h4>
+                    <div class="line-dec"></div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="blog-item b1">
+                    <div class="thumb">
+                        <img src="img/blog_01.jpg" alt="">
+                        <div class="text-content">
+                            <h4>Жергілікті өнімдерді дамыту</h4>
+                            <span>Posted: <em>Арман</em>  /  Date: <em>11 Aug 2024</em>  /  Category: <em>Өндіріс</em></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="blog-item second-blog b2">
+                    <div class="thumb">
+                        <img src="img/blog_02.jpg" alt="">
+                        <div class="text-content">
+                            <h4>Білім мен мәдениетті дамыту</h4>
+                            <span>Posted: <em>Айдос</em>  /  Date: <em>24 Jul 2024</em>  /  Category: <em>Мәдениет</em></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="blog-item b3">
+                    <div class="thumb">
+                        <img src="img/blog_03.jpg" alt="">
+                        <div class="text-content">
+                            <h4>Экологияны қорғау</h4>
+                            <span>Posted: <em>Әділхан</em>  /  Date: <em>16 Jul 2024</em>  /  Category: <em>Экология</em></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="pop">
+                    <span>✖</span>
+                    <p>
+                        Развитие местных продуктов — это стратегия, направленная на поддержку местных производителей и фермеров, а также на увеличение доступности и разнообразия местной продукции для жителей города. Вот более детальное объяснение:
+
+                        Поддержка местных фермеров: Администрация города может создать программы и инициативы, направленные на оказание финансовой, технической и информационной поддержки местным фермерским хозяйствам. Это может включать в себя предоставление субсидий, обучение современным методам сельского хозяйства, консультации по маркетингу и продажам.
+                        Развитие местных рынков: Администрация может поддерживать развитие местных рынков, где фермеры могут продавать свою продукцию непосредственно потребителям. Это может включать в себя предоставление помещений для рынков, организацию рекламных мероприятий и программ развития инфраструктуры.
+                    </p>
+                </div>
+                <div class="pop2">
+                    <span>✖</span>
+                    <p>
+                        Развитие образования и культуры в городе имеет ключевое значение для улучшения качества жизни его жителей и создания благоприятной и привлекательной среды. Вот несколько конкретных идей:
+
+                        Модернизация образовательных учреждений: Реновация и обновление школ, колледжей и университетов для обеспечения современных условий обучения, включая улучшение инфраструктуры, обновление учебных материалов и внедрение новых технологий.
+                        Развитие дополнительного образования: Создание программ дополнительного образования для детей и взрослых в различных областях, таких как наука, искусство, технологии и спорт, включая организацию кружков, мастер-классов и летних школ.
+                    </p>
+                </div>
+                <div class="pop3">
+                    <span>✖</span>
+                    <p>
+                        Экологические инициативы могут быть важным компонентом планов администрации города для жителей. Вот некоторые конкретные идеи:
+
+                        Утилизация отходов: Введение программ по утилизации отходов, включая раздельный сбор мусора, организацию пунктов приема вторсырья (бумаги, пластика, стекла) и расширение программ по переработке органических отходов в компост.
+                        Энергоэффективность: Программы по снижению энергопотребления в городе, включая обновление общественных зданий и инфраструктуры для повышения их энергоэффективности, а также стимулирование использования альтернативных источников энергии, таких как солнечная и ветровая энергия.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="fun-facts">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3 col-sm-6 col-xs-12">
+                <div class="fact-item">
+                    <div class="counter" data-count="46">0</div>
+                    <span>Вакансиялар</span>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12">
+                <div class="fact-item">
+                    <div class="counter" data-count="14">0</div>
+                    <span>Жоспарлар</span>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12">
+                <div class="fact-item">
+                    <div class="counter" data-count="18">0</div>
+                    <span>Жобалар</span>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12">
+                <div class="fact-item">
+                    <div class="counter" data-count="16">0</div>
+                    <span>ЖАЛПЫ МАРАПАТТАР</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div id="contact" class="page-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="section-heading">
+                    <h4>Contact Us</h4>
+                    <div class="line-dec"></div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="map">
+                    <img src="img/kop_ss.jpg" alt="">
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="row">
+                    <form id="contact" action="" method="post">
+                        <div class="col-md-6">
+                            <fieldset>
+                                <input name="name" type="text" class="form-control" id="name" placeholder="Your name..." required="">
+                            </fieldset>
+                        </div>
+                        <div class="col-md-6">
+                            <fieldset>
+                                <input name="email" type="email" class="form-control" id="email" placeholder="Your email..." required="">
+                            </fieldset>
+                        </div>
+                        <div class="col-md-12">
+                            <fieldset>
+                                <textarea name="message" rows="6" class="form-control" id="message" placeholder="Your message..." required=""></textarea>
+                            </fieldset>
+                        </div>
+                        <div class="col-md-12">
+                            <fieldset>
+                                <button type="submit" id="form-submit" class="btn">Жіберу</button>
+                            </fieldset>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="copyright-text">
+                    <p>Copyright &copy; 2017 Company Name - NURSAT</p>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="social-icons">
+                    <ul>
+                        <li>
+                            <a href="#"><i class="fa fa-facebook"></i></a>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa fa-twitter"></i></a>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa fa-rss"></i></a>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa fa-dribbble"></i></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>

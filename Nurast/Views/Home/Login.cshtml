@@ -1,0 +1,42 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout_reg_log.cshtml";
+}
+
+
+
+<form asp-action="Login" method="post">
+@*     <div>
+        <label>Email</label>
+        <input type="email" name="email" required />
+    </div>
+    <div>
+        <label>Password</label>
+        <input type="password" name="password" required />
+    </div>
+    <div>
+        <button type="submit">Login</button>
+
+    </div> *@
+    <div class="login">
+        <div class="login-screen">
+            <div class="app-title">
+                <h1>Login</h1>
+            </div>
+
+            <div class="login-form">
+                <div class="control-group">
+                    <input type="text" class="login-field" value="" placeholder="username" id="login-name">
+                    <label class="login-field-icon fui-user" for="login-name"></label>
+                </div>
+
+                <div class="control-group">
+                    <input type="password" class="login-field" value="" placeholder="password" id="login-pass">
+                    <label class="login-field-icon fui-lock" for="login-pass"></label>
+                </div>
+
+                <a class="btn btn-primary btn-large btn-block" href="#">submit</a>
+                <a asp-controller="Home" asp-action="Register" class="login-link">Сізде аккаунт жоқпа?</a>
+            </div>
+        </div>
+    </div>
+</form>

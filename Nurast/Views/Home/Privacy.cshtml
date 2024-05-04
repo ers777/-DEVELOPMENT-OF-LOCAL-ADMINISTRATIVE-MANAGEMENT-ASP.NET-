@@ -1,0 +1,94 @@
+﻿@model Nurast.Models.VacancyItem
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@Model.title</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #e8f5e9; /* Soft green background for the whole page */
+            margin: 0;
+            padding: 20px;
+            color: #333;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        h1, h2 {
+            color: #27ae60; /* Green */
+        }
+
+        h1 {
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+
+        h2 {
+            font-size: 20px;
+            margin-bottom: 20px;
+        }
+
+        img {
+            width: 100%;
+            height: auto;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .details {
+            margin-top: 20px;
+            line-height: 1.6;
+            font-size: 16px;
+        }
+
+        strong {
+            color: #2980b9; /* Blue */
+        }
+
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            margin: 10px 0;
+            border-radius: 5px;
+            background-color: #27ae60;
+            color: white;
+            text-decoration: none; /* Removes underline from links */
+            text-align: center;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.15);
+            transition: background-color 0.3s;
+        }
+
+            .button:hover {
+                background-color: #2ecc71;
+            }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>@Model.title</h1>
+        <h2>Price: @Model.price</h2>
+        <div class="details">
+            <strong>Description:</strong> @Model.desct
+            <br />
+            <strong>Requirements:</strong> @Model.text
+            <br />
+            @if (!string.IsNullOrEmpty(Model.img))
+            {
+                <img src="@Model.img" alt="Vacancy Image">
+            }
+        </div>
+        <a href="#" class="button">Apply Now</a>
+        <a href="#" class="button">More Info</a>
+    </div>
+</body>
+</html>
