@@ -26,16 +26,16 @@
 
             <div class="login-form">
                 <div class="control-group">
-                    <input type="text" class="login-field" value="" placeholder="username" id="login-name">
+                    <input type="text" class="login-field" value="" placeholder="email" id="login-name" name="email" required>
                     <label class="login-field-icon fui-user" for="login-name"></label>
                 </div>
 
                 <div class="control-group">
-                    <input type="password" class="login-field" value="" placeholder="password" id="login-pass">
+                    <input type="password" class="login-field" value="" placeholder="password" id="login-pass" name="password" required>
                     <label class="login-field-icon fui-lock" for="login-pass"></label>
                 </div>
 
-                <a class="btn btn-primary btn-large btn-block" href="#">submit</a>
+                <button class="btn btn-primary btn-large btn-block"  type="submit">Register</button>
                 <a asp-controller="Home" asp-action="Login" class="login-link">Сізде аккаунт барма?</a>
             </div>
         </div>

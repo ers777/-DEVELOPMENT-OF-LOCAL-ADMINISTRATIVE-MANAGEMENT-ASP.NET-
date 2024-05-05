@@ -6,7 +6,7 @@
 
 <form asp-action="Login" method="post">
 @*     <div>
-        <label>Email</label>
+    <label>name="password" required</label>
         <input type="email" name="email" required />
     </div>
     <div>
@@ -25,16 +25,15 @@
 
             <div class="login-form">
                 <div class="control-group">
-                    <input type="text" class="login-field" value="" placeholder="username" id="login-name">
+                    <input type="text" class="login-field" value="" placeholder="email" id="login-name" name="email" required>
                     <label class="login-field-icon fui-user" for="login-name"></label>
                 </div>
 
                 <div class="control-group">
-                    <input type="password" class="login-field" value="" placeholder="password" id="login-pass">
+                    <input type="password" class="login-field" value="" placeholder="password" id="login-pass" name="password" required>
                     <label class="login-field-icon fui-lock" for="login-pass"></label>
                 </div>
-
-                <a class="btn btn-primary btn-large btn-block" href="#">submit</a>
+                <button class="btn btn-primary btn-large btn-block" type="submit">Login</button>
                 <a asp-controller="Home" asp-action="Register" class="login-link">Сізде аккаунт жоқпа?</a>
             </div>
         </div>
