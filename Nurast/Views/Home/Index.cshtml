@@ -5,6 +5,9 @@
 
 
 @{
+    var isAuthenticated = Context.Request.Cookies["IsAuthenticated"] == "true";
+    var email = Context.Request.Cookies["email"];
+
     ViewData["Title"] = "Home Page";
 }
 
@@ -36,8 +39,18 @@
                     <li><a href="#" class="scroll-link" data-id="about">Жаңалықтар</a></li>
                     <li><a href="#" class="scroll-link" data-id="portfolio">Вакансиялар</a></li>
                     <li><a href="#" class="scroll-link" data-id="blog">Жоспарлар</a></li>
-                    <li><a href="#" class="scroll-link" data-id="contact">CONTACT US</a></li>
-                    <li><a asp-controller="Home" asp-action="Login">Кіру</a></li>
+                    <li><a asp-controller="Home" asp-action="Basharushi">Басқарушы</a></li>
+                    @if (!isAuthenticated)
+                    {
+                        <li><a asp-controller="Home" asp-action="Login">Кіру</a></li>
+
+                    }
+                    else
+                    {
+                        <li><a asp-controller="Home" asp-action="Profile">Профиль</a></li>
+
+                    }
+
                 </ul>
             </div>
             <!--/.navbar-collapse-->
@@ -55,9 +68,9 @@
         <li class="selected first-slide">
             <div class="cd-full-width">
                 <div class="tm-slide-content-div slide-caption">
-                    <span>Introduction to</span>
-                    <h2>Kopzhasar</h2>
-                    <p>Команда-бұл жай ғана адамдар тобы емес, олардың ынтымақтастығы мен бір-біріне деген құрметінің арқасында керемет биіктерге жетуге қабілетті бірлік</p>
+                    <span></span>
+                    <h2>Көпжасар ауылының халықпен жергілікті әкімшілік арасында байланыс орнату</h2>
+                    <p>1963-1997 жылдары «Жаңаталап» қой кеңшарының орталығы болды. Оның негізінде Көпжасарда және округтегі Салтанат, Саралжын, Үштас ауылдарында «Көпжасар» серіктестігі мен 31 шаруа қожалығы құрылған.</p>
                     <div class="primary-button">
                         <a href="#" class="scroll-link" data-id="about">Көбірек Біліңіз</a>
                     </div>
@@ -68,9 +81,9 @@
         <li class="second-slide">
             <div class="cd-full-width">
                 <div class="tm-slide-content-div slide-caption">
-                    <span>We Are Perfect Staffs</span>
-                    <h2>Біріккен күш: бірге ұлы биіктерге</h2>
-                    <p>Үлкен жетістіктерге ешқашан жалғыз қол жеткізілмейді. Олар ұжымдық күш-жігердің, өзара түсіністік пен қолдаудың арқасында мүмкін болады.</p>
+                    <span></span>
+                    <h2>Көпжасар ауылының халықпен жергілікті әкімшілік арасында байланыс орнату</h2>
+                    <p>Аудан орталығы - Жаңақала ауылынан шығысқа қарай 12 км-дей жерде, Жалтыркөл көлінің оңтүстігіндегі еркекшөп, теріскен басым әр түрлі шөптер өскен сортаңды-сұр құмдақ топырақты, шөлді белдемде орналасқан.</p>
                     <div class="primary-button">
                         <a href="#">Толығырақ</a>
                     </div>
@@ -81,9 +94,9 @@
         <li class="third-slide">
             <div class="cd-full-width">
                 <div class="tm-slide-content-div slide-caption">
-                    <span>Design is a hobby</span>
-                    <h2>Өнер ретінде ынтымақтастық: бірге шедеврге</h2>
-                    <p>Кез – келген хобби сияқты, командада әр мүше өз рөлін атқарады-мейлі ол құрылысшы, суретші немесе зерттеуші болсын. Тек бірге олар шедевр жасайды.</p>
+                    <span></span>
+                    <h2>Көпжасар ауылының халықпен жергілікті әкімшілік арасында байланыс орнату</h2>
+                    <p>Орта, 2 бастауыш мектептер, мәдениет үйі, дәрігерлік амбулатория, фельдшерлік-акушерлік пункт, т.б. мекемелер бар. Тұрғындары елді мекендермен автомобиль жолы арқылы қатынасады</p>
                     <div class="primary-button">
                         <a href="#">Мәліметтерді Қарау</a>
                     </div>
@@ -192,7 +205,7 @@
             <div class="col-md-6">
                 <div class="left-text">
                     <h4>Біз туралы</h4>
-                    <p>Көпжасар қаласы әкімдігінің сайтына қош келдіңіздер! Біз қаламызды күн сайын көркейту үшін жұмыс істейтін кәсіби мамандар командасымыз. Біз тұрғындардың жайлылығына, қауіпсіздігіне және дамуына ықпал ететін әртүрлі қызметтер мен инфрақұрылымды ұсына отырып, қолайлы және прогрессивті өмір сүру ортасын құруға тырысамыз.<br><br>Біздің веб-сайтта сіз біздің жобаларымыз бен бастамаларымыз, әкімшілік ұсынатын қызметтер туралы ақпаратты, сондай-ақ кері байланыс үшін байланыс ақпаратын таба аласыз. Біз өз іс-әрекеттерімізде ашықтық пен ашықтықты бағалаймыз және шешім қабылдау кезінде олардың пікірлері мен қажеттіліктерін ескере отырып, қала тұрғындарымен тығыз қарым-қатынаста болуға ұмтыламыз.</p>
+                    <p>Көпжасар ауылы әкімдігінің сайтына қош келдіңіздер! Біз ауылымызды күн сайын көркейту үшін жұмыс істейтін кәсіби мамандар командасымыз. Біз тұрғындардың жайлылығына, қауіпсіздігіне және дамуына ықпал ететін әртүрлі қызметтер мен инфрақұрылымды ұсына отырып, қолайлы және прогрессивті өмір сүру ортасын құруға тырысамыз.<br><br>Біздің веб-сайтта сіз біздің жобаларымыз бен бастамаларымыз, әкімшілік ұсынатын қызметтер туралы ақпаратты, сондай-ақ кері байланыс үшін байланыс ақпаратын таба аласыз. Біз өз іс-әрекеттерімізде ашықтық пен ашықтықты бағалаймыз және шешім қабылдау кезінде олардың пікірлері мен қажеттіліктерін ескере отырып, ауыл тұрғындарымен тығыз қарым-қатынаста болуға ұмтыламыз.</p>
                     <ul>
                         <li>
                             <div class="white-button">
@@ -209,7 +222,7 @@
             </div>
             <div class="col-md-6">
                 <div class="right-image">
-                    <img src="img/collage.png" alt="">
+                    <img src="img/Akim2.jpeg" alt="">
                 </div>
             </div>
         </div>
@@ -239,94 +252,32 @@
                     </ul> -->
                 </div>
                 <div id="slider" class="slick">
+
+                                            @{
+                    int co = 0;
+                    int itemsPerPage = 6;
+                    int totalPages = (Model.Vacancies.Count + itemsPerPage - 1) / itemsPerPage;
+                }
+
+                @for (int i = 0; i < totalPages; i++)
+                {
                     <div class="projects-holder">
                         <div class="row">
-                            @foreach (var item in Model.Vacancies)
+                            @foreach (var item in Model.Vacancies.Skip(i * itemsPerPage).Take(itemsPerPage))
                             {
-                                 <div class="col-md-3 col-sm-6 project-item mix workspace">
-                                <div class="thumb">
+                                <div class="col-md-3 col-sm-6 project-item mix workspace">
+                                    <div class="thumb">
                                         <a class="image ff" href="@Url.Action("Privacy", "Home", new { key = item.Key })">
                                             <img src="img/portfolio_01.jpg">
-                                        <div class="overlay">@item.Value.title</div>
-                                    </a>
-                                    
+                                            <div class="overlay">@item.Value.title</div>
+                                        </a>
+                                    </div>
                                 </div>
-                            </div>
+                                
                             }
-
-                           
-                            <div class="col-md-3 col-sm-6 project-item mix workspace">
-                                <div class="thumb">
-                                    <div class="image">
-                                        <img src="img/portfolio_02.jpg">
-                                    </div>
-                                    <div class="hover-effect">
-                                        <a href="img/portfolio_big_02.jpg"></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-3 col-sm-6 project-item mix technology">
-                                <div class="thumb">
-                                    <div class="image">
-                                        <img src="img/portfolio_03.jpg">
-                                    </div>
-                                    <div class="hover-effect">
-                                        <a href="img/portfolio_big_03.jpg"></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-3 col-sm-6 project-item mix city">
-                                <div class="thumb">
-                                    <div class="image">
-                                        <img src="img/portfolio_04.jpg">
-                                    </div>
-                                    <div class="hover-effect">
-                                        <a href="img/portfolio_big_04.jpg"></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-3 col-sm-6 project-item mix nature">
-                                <div class="thumb">
-                                    <div class="image">
-                                        <img src="img/portfolio_05.jpg">
-                                    </div>
-                                    <div class="hover-effect">
-                                        <a href="img/portfolio_big_05.jpg"></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-3 col-sm-6 project-item mix technology">
-                                <div class="thumb">
-                                    <div class="image">
-                                        <img src="img/portfolio_06.jpg">
-                                    </div>
-                                    <div class="hover-effect">
-                                        <a href="img/portfolio_big_06.jpg"></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-3 col-sm-6 project-item mix workspace">
-                                <div class="thumb">
-                                    <div class="image">
-                                        <img src="img/portfolio_07.jpg">
-                                    </div>
-                                    <div class="hover-effect">
-                                        <a href="img/portfolio_big_07.jpg"></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-3 col-sm-6 project-item mix city">
-                                <div class="thumb">
-                                    <div class="image">
-                                        <img src="img/portfolio_08.jpg">
-                                    </div>
-                                    <div class="hover-effect">
-                                        <a href="img/portfolio_big_08.jpg"></a>
-                                    </div>
-                                </div>
-                            </div>
                         </div>
                     </div>
+                }
                     <div class="projects-holder">
                         <div class="row">
                             <div class="col-md-3 col-sm-6 project-item mix workspace">
@@ -431,10 +382,10 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-md-6 blog_2">
                 <div class="blog-item b1">
-                    <div class="thumb">
-                        <img src="img/blog_01.jpg" alt="">
+                    <div class="thumb ">
+                        <img class="img_zhergilikti_onim" src="img/zhergilikti_onim.jpg" alt="">
                         <div class="text-content">
                             <h4>Жергілікті өнімдерді дамыту</h4>
                             <span>Posted: <em>Арман</em>  /  Date: <em>11 Aug 2024</em>  /  Category: <em>Өндіріс</em></span>
@@ -444,7 +395,7 @@
             </div>
             <div class="col-md-6">
                 <div class="blog-item second-blog b2">
-                    <div class="thumb">
+                    <div class="thumb ">
                         <img src="img/blog_02.jpg" alt="">
                         <div class="text-content">
                             <h4>Білім мен мәдениетті дамыту</h4>
@@ -456,7 +407,7 @@
             <div class="col-md-6">
                 <div class="blog-item b3">
                     <div class="thumb">
-                        <img src="img/blog_03.jpg" alt="">
+                        <img src="img/eco.jpg" alt="">
                         <div class="text-content">
                             <h4>Экологияны қорғау</h4>
                             <span>Posted: <em>Әділхан</em>  /  Date: <em>16 Jul 2024</em>  /  Category: <em>Экология</em></span>
@@ -470,28 +421,28 @@
                 <div class="pop">
                     <span>✖</span>
                     <p>
-                        Развитие местных продуктов — это стратегия, направленная на поддержку местных производителей и фермеров, а также на увеличение доступности и разнообразия местной продукции для жителей города. Вот более детальное объяснение:
+                        Жергілікті өнімді дамыту - бұл жергілікті өндірушілер мен фермерлерді қолдауға, сондай-ақ қала тұрғындары үшін жергілікті өнімдердің қолжетімділігі мен әртүрлілігін арттыруға бағытталған стратегия. Мұнда толығырақ түсініктеме берілген:
 
-                        Поддержка местных фермеров: Администрация города может создать программы и инициативы, направленные на оказание финансовой, технической и информационной поддержки местным фермерским хозяйствам. Это может включать в себя предоставление субсидий, обучение современным методам сельского хозяйства, консультации по маркетингу и продажам.
-                        Развитие местных рынков: Администрация может поддерживать развитие местных рынков, где фермеры могут продавать свою продукцию непосредственно потребителям. Это может включать в себя предоставление помещений для рынков, организацию рекламных мероприятий и программ развития инфраструктуры.
+                        Жергілікті фермерлерді қолдау: қала әкімшілігі жергілікті фермерлерге қаржылық, техникалық және ақпараттық қолдау көрсетуге бағытталған бағдарламалар мен бастамаларды құра алады. Бұған субсидиялар беру, ауыл шаруашылығының заманауи әдістерін үйрету, маркетинг және сату бойынша кеңес беру кіруі мүмкін.
+                        Жергілікті нарықтарды дамыту: әкімшілік фермерлер өз өнімдерін тікелей тұтынушыларға сата алатын жергілікті нарықтардың дамуын қолдай алады. Бұл базарларға орын беруді, жарнамалық іс-шаралар мен инфрақұрылымды дамыту бағдарламаларын ұйымдастыруды қамтуы мүмкін.
                     </p>
                 </div>
                 <div class="pop2">
                     <span>✖</span>
                     <p>
-                        Развитие образования и культуры в городе имеет ключевое значение для улучшения качества жизни его жителей и создания благоприятной и привлекательной среды. Вот несколько конкретных идей:
+                        Қалада білім мен мәдениетті дамыту оның тұрғындарының өмір сүру сапасын жақсарту және қолайлы және тартымды орта құру үшін маңызды. Міне бірнеше нақты идеялар:
 
-                        Модернизация образовательных учреждений: Реновация и обновление школ, колледжей и университетов для обеспечения современных условий обучения, включая улучшение инфраструктуры, обновление учебных материалов и внедрение новых технологий.
-                        Развитие дополнительного образования: Создание программ дополнительного образования для детей и взрослых в различных областях, таких как наука, искусство, технологии и спорт, включая организацию кружков, мастер-классов и летних школ.
+                        Білім беру мекемелерін жаңғырту: инфрақұрылымды жақсартуды, оқу материалдарын жаңартуды және жаңа технологияларды енгізуді қоса алғанда, заманауи оқу жағдайларын қамтамасыз ету үшін мектептерді, колледждерді және университеттерді жаңарту және жаңарту.
+                        Қосымша білім беруді дамыту: ғылым, өнер, технология және спорт сияқты әртүрлі салаларда балалар мен ересектерге арналған қосымша білім беру бағдарламаларын құру, соның ішінде үйірмелер, шеберлік сыныптары және жазғы мектептер ұйымдастыру.
                     </p>
                 </div>
                 <div class="pop3">
                     <span>✖</span>
                     <p>
-                        Экологические инициативы могут быть важным компонентом планов администрации города для жителей. Вот некоторые конкретные идеи:
+                        Экологиялық бастамалар қала әкімшілігінің тұрғындарға арналған жоспарларының маңызды құрамдас бөлігі бола алады. Міне, кейбір нақты идеялар:
 
-                        Утилизация отходов: Введение программ по утилизации отходов, включая раздельный сбор мусора, организацию пунктов приема вторсырья (бумаги, пластика, стекла) и расширение программ по переработке органических отходов в компост.
-                        Энергоэффективность: Программы по снижению энергопотребления в городе, включая обновление общественных зданий и инфраструктуры для повышения их энергоэффективности, а также стимулирование использования альтернативных источников энергии, таких как солнечная и ветровая энергия.
+                        Қалдықтарды кәдеге жарату: қалдықтарды бөлек жинауды қоса алғанда, қалдықтарды кәдеге жарату жөніндегі бағдарламаларды енгізу, қайта шикізатты (қағаз, пластик, шыны) қабылдау пункттерін ұйымдастыру және органикалық қалдықтарды компостқа қайта өңдеу жөніндегі бағдарламаларды кеңейту.
+                        Энергия тиімділігі: қалада энергия тұтынуды азайту бағдарламалары, соның ішінде қоғамдық ғимараттар мен инфрақұрылымдарды энергия тиімділігін арттыру үшін жаңарту және күн мен жел сияқты баламалы энергия көздерін пайдалануды ынталандыру.
                     </p>
                 </div>
             </div>
@@ -504,26 +455,26 @@
         <div class="row">
             <div class="col-md-3 col-sm-6 col-xs-12">
                 <div class="fact-item">
-                    <div class="counter" data-count="46">0</div>
-                    <span>Вакансиялар</span>
+                    <div class="counter" data-count="1752">0</div>
+                    <span>Халық саны</span>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12">
                 <div class="fact-item">
-                    <div class="counter" data-count="14">0</div>
-                    <span>Жоспарлар</span>
+                    <div class="counter" data-count="863">0</div>
+                    <span>Ер адамдар</span>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12">
                 <div class="fact-item">
-                    <div class="counter" data-count="18">0</div>
-                    <span>Жобалар</span>
+                    <div class="counter" data-count="889">0</div>
+                    <span>Әйел адамдар</span>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12">
                 <div class="fact-item">
-                    <div class="counter" data-count="16">0</div>
-                    <span>ЖАЛПЫ МАРАПАТТАР</span>
+                    <div class="counter" data-count="452">0</div>
+                    <span>Жасөспірімдер</span>
                 </div>
             </div>
         </div>

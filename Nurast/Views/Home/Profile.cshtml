@@ -1,0 +1,316 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile</title>
+    <style>
+        body {
+            background-color: #f9f9fa;
+        }
+
+        .padding {
+            padding: 3rem !important;
+        }
+
+        .user-card-full {
+            overflow: hidden;
+        }
+
+        .card {
+            border-radius: 5px;
+            -webkit-box-shadow: 0 1px 20px 0 rgba(69,90,100,0.08);
+            box-shadow: 0 1px 20px 0 rgba(69,90,100,0.08);
+            border: none;
+            margin-bottom: 30px;
+        }
+
+        .m-r-0 {
+            margin-right: 0px;
+        }
+
+        .m-l-0 {
+            margin-left: 0px;
+        }
+
+        .user-card-full .user-profile {
+            border-radius: 5px 0 0 5px;
+        }
+
+        .bg-c-lite-green {
+            background: -webkit-gradient(linear, left top, right top, from(#f29263), to(#ee5a6f));
+            background: linear-gradient(to right, #ee5a6f, #f29263);
+        }
+
+        .user-profile {
+            padding: 20px 0;
+            position: relative;
+        }
+
+        .card-block {
+            padding: 1.25rem;
+        }
+
+        .m-b-25 {
+            margin-bottom: 25px;
+        }
+
+        .img-radius {
+            border-radius: 5px;
+        }
+
+        h6 {
+            font-size: 16px;
+        }
+
+        .card .card-block p {
+            line-height: 25px;
+        }
+
+        p {
+            font-size: 16px;
+        }
+
+        .card-block {
+            padding: 1.25rem;
+        }
+
+        .b-b-default {
+            border-bottom: 1px solid #e0e0e0;
+        }
+
+        .m-b-20 {
+            margin-bottom: 20px;
+        }
+
+        .p-b-5 {
+            padding-bottom: 5px !important;
+        }
+
+        .m-b-10 {
+            margin-bottom: 10px;
+        }
+
+        .text-muted {
+            color: #919aa3 !important;
+        }
+
+        .f-w-600 {
+            font-weight: 600;
+        }
+
+        .m-t-40 {
+            margin-top: 20px;
+        }
+
+        .user-card-full .social-link li {
+            display: inline-block;
+        }
+
+            .user-card-full .social-link li a {
+                font-size: 22px;
+                margin: 0 10px 0 0;
+                -webkit-transition: all 0.3s ease-in-out;
+                transition: all 0.3s ease-in-out;
+            }
+
+        .text-center {
+            text-align: center !important;
+        }
+
+        .btn-back {
+            display: inline-block;
+            padding: 10px 20px;
+            color: #fff;
+            background-color: #3498db;
+            text-decoration: none;
+            border-radius: 4px;
+            transition: background-color 0.3s;
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            font-size: 16px;
+        }
+
+            .btn-back:hover {
+                background-color: #2980b9;
+            }
+
+        .btn-request {
+            display: inline-block;
+            padding: 10px 20px;
+            color: #fff;
+            background-color: #2ecc71;
+            text-decoration: none;
+            border-radius: 4px;
+            transition: background-color 0.3s;
+            font-size: 16px;
+            margin-top: 20px;
+        }
+
+            .btn-request:hover {
+                background-color: #27ae60;
+            }
+
+        .btn-submit {
+            display: inline-block;
+            padding: 8px 16px;
+            color: #fff;
+            background-color: #2ecc71;
+            text-decoration: none;
+            border-radius: 4px;
+            transition: background-color 0.3s;
+            font-size: 16px;
+            margin-top: 10px;
+            margin-left: auto;
+            margin-right: auto;
+            display: block;
+        }
+
+            .btn-submit:hover {
+                background-color: #27ae60;
+            }
+
+        .hidden {
+            display: none;
+        }
+
+        .visible {
+            display: block;
+        }
+
+        .text-input, .small-input {
+            width: 90%;
+            padding: 12px 20px;
+            box-sizing: border-box;
+            border: 2px solid #ccc;
+            border-radius: 4px;
+            background-color: #f8f8f8;
+            margin: 10px auto;
+        }
+
+        .text-input {
+            height: 150px;
+            resize: none;
+        }
+
+        .small-input {
+            height: 40px;
+        }
+
+        .alert {
+            padding: 15px;
+            background-color: #4CAF50;
+            color: white;
+            margin-bottom: 20px;
+            border-radius: 4px;
+        }
+
+        .form-container {
+            position: relative;
+            text-align: center;
+        }
+    </style>
+    <script>
+        function toggleInput() {
+            var inputField = document.getElementById('adminRequestInput');
+            var requestLink = document.getElementById('adminRequestLink');
+            if (inputField.classList.contains('hidden')) {
+                inputField.classList.remove('hidden');
+                inputField.classList.add('visible');
+                requestLink.classList.remove('hidden');
+                requestLink.classList.add('visible');
+            } else {
+                inputField.classList.remove('visible');
+                inputField.classList.add('hidden');
+                requestLink.classList.remove('visible');
+                requestLink.classList.add('hidden');
+            }
+        }
+
+        // JavaScript function to hide the success message after a few seconds
+        function hideSuccessMessage() {
+            var successMessage = document.getElementById('successMessage');
+            if (successMessage) {
+                setTimeout(function () {
+                    successMessage.style.display = 'none';
+                }, 5000); // Hide after 5 seconds
+            }
+        }
+
+        window.onload = hideSuccessMessage;
+    </script>
+</head>
+<body>
+    @{
+        var email = Context.Request.Cookies["email"];
+        var fullName = Context.Request.Cookies["fullName"];
+        var dateOfBirth = Context.Request.Cookies["dateOfBirth"];
+        var gender = Context.Request.Cookies["gender"];
+        var phoneNumber = Context.Request.Cookies["phoneNumber"];
+        var category = Context.Request.Cookies["category"];
+    }
+    <div class="page-content page-container" id="page-content">
+        <div class="padding">
+            <div class="row container d-flex justify-content-center">
+                <div class="col-xl-6 col-md-12">
+                    <div class="card user-card-full">
+                        <div class="row m-l-0 m-r-0">
+                            <div class="col-sm-4 bg-c-lite-green user-profile">
+                                <div class="card-block text-center text-white">
+                                    <div class="m-b-25">
+                                        <img src="https://img.icons8.com/bubbles/100/000000/user.png" class="img-radius" alt="User-Profile-Image">
+                                    </div>
+                                    <h6 class="f-w-600">@fullName</h6>
+                                    <p>@category</p>
+                                    <a asp-controller="Home" asp-action="Back" class="btn-back">шыгу</a>
+                                    <i class="mdi mdi-square-edit-outline feather icon-edit m-t-10 f-16"></i>
+                                </div>
+                            </div>
+                            <div class="col-sm-8">
+                                <div class="card-block">
+                                    <h6 class="m-b-20 p-b-5 b-b-default f-w-600 text-center">Пайдаланушы туралы ақпарат</h6>
+                                    <div class="row">
+                                        <div class="col-sm-6">
+                                            <p class="m-b-10 f-w-600">Туылған күні</p>
+                                            <h6 class="text-muted f-w-400">@dateOfBirth</h6>
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <p class="m-b-10 f-w-600">Email</p>
+                                            <h6 class="text-muted f-w-400">@email</h6>
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <p class="m-b-10 f-w-600">Телефон нөмері</p>
+                                            <h6 class="text-muted f-w-400">@phoneNumber</h6>
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <p class="m-b-10 f-w-600">Жынысы</p>
+                                            <h6 class="text-muted f-w-400">@gender</h6>
+                                        </div>
+                                    </div>
+                                    <div class="text-center">
+                                        <a href="javascript:void(0);" onclick="toggleInput()" class="btn-request">Әкімге сұраныс жазу</a>
+                                    </div>
+                                    @if (ViewBag.SuccessMessage != null)
+                                    {
+                                        <div id="successMessage" class="alert">
+                                            @ViewBag.SuccessMessage
+                                        </div>
+                                    }
+                                    <form method="post" asp-action="AkimHat" class="form-container">
+                                        <div class="text-center hidden" id="adminRequestInput">
+                                            <input type="text" name="title" class="small-input" placeholder="Заголовок...">
+                                            <textarea name="hat" class="text-input" placeholder="Әкімге сұраныс жазу..."></textarea>
+                                            <button type="submit" class="btn-submit">Жіберу</button>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

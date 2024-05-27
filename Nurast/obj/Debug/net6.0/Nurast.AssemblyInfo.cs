@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nurast")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+572cae5e3b26f9c913cef0966bcd6bd5b898f90e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8fff685e8bf73ba0045ba59163d362627ef5e08")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nurast")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nurast")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

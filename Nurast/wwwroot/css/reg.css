@@ -1,39 +1,45 @@
-* {
+﻿* {
     box-sizing: border-box;
-    }
-    
+}
+
     *:focus {
-      outline: none;
+        outline: none;
     }
-    body {
+
+body {
     font-family: Arial;
     background-color: #3498DB;
     padding: 50px;
     margin-top: 100px;
-    }
-    .login {
+}
+
+.login {
     margin: 20px auto;
     width: 300px;
-    }
-    .login-screen {
+}
+
+.login-screen {
     background-color: #FFF;
     padding: 20px;
-    border-radius: 5px
-    }
-    
-    .app-title {
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.app-title {
     text-align: center;
     color: #777;
-    }
-    
-    .login-form {
+    margin-bottom: 20px;
+}
+
+.login-form {
     text-align: center;
-    }
-    .control-group {
+}
+
+.control-group {
     margin-bottom: 10px;
-    }
-    
-    input {
+}
+
+input, select {
     text-align: center;
     background-color: #ECF0F1;
     border: 2px solid transparent;
@@ -42,41 +48,64 @@
     font-weight: 200;
     padding: 10px 0;
     width: 250px;
-    transition: border .5s;
+    transition: border 0.5s;
+    margin: 5px auto;
+}
+
+    input:focus, select:focus {
+        border: 2px solid #3498DB;
+        box-shadow: none;
     }
-    
-    input:focus {
-    border: 2px solid #3498DB;
+
+select {
+    -webkit-appearance: none; /* Remove default arrow in Chrome */
+    -moz-appearance: none; /* Remove default arrow in Firefox */
+    appearance: none; /* Remove default arrow in other browsers */
+    background-image: url('data:image/svg+xml;utf8,<svg fill="%23777" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M7 10l5 5 5-5z"/></svg>');
+    background-repeat: no-repeat;
+    background-position: right 10px center;
+    background-size: 12px 12px;
+    cursor: pointer;
+}
+
+.btn {
+    border: 2px solid transparent;
+    background: #3498DB;
+    color: #ffffff;
+    font-size: 16px;
+    line-height: 25px;
+    padding: 10px 0;
+    text-decoration: none;
+    text-shadow: none;
+    border-radius: 3px;
     box-shadow: none;
-    }
-    
-    .btn {
-      border: 2px solid transparent;
-      background: #3498DB;
-      color: #ffffff;
-      font-size: 16px;
-      line-height: 25px;
-      padding: 10px 0;
-      text-decoration: none;
-      text-shadow: none;
-      border-radius: 3px;
-      box-shadow: none;
-      transition: 0.25s;
-      display: block;
-      width: 250px;
-      margin: 0 auto;
-    }
-    
+    transition: 0.25s;
+    display: block;
+    width: 250px;
+    margin: 20px auto;
+}
+
     .btn:hover {
-      background-color: #2980B9;
+        background-color: #2980B9;
     }
-    
-    .login-link {
-      font-size: 12px;
-      color: #444;
-      display: block;
-      margin-top: 12px;
-    }
+
+.login-link {
+    font-size: 12px;
+    color: #444;
+    display: block;
+    margin-top: 12px;
+}
+
+.label {
+    display: block;
+    margin-bottom: 5px;
+    color: #777;
+}
+
+.select {
+    margin-bottom: 20px;
+}
+
 .reg_ff {
     margin-top: 22px;
     background-image: url(../img/Kop_Amita_white.png);
@@ -84,4 +113,45 @@
     width: 125px;
     height: 32px;
     background-repeat: no-repeat;
+}
+
+.login-field-icon {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-left: -30px;
+    margin-top: 5px;
+}
+
+#full-name {
+    margin-top: 5;
+    position: relative;
+}
+
+#phone-number {
+    margin-top: 5px;
+    position: relative;
+}
+
+#login-name {
+    margin-top: 5px;
+    position: relative;
+}
+
+#login-pass {
+    margin-top: 5px;
+    position: relative;
+}
+
+#date-of-birth {
+    margin-top: 5px;
+    position: relative;
+}
+
+#gender-select, #category-select {
+    margin-top: 5px;
+    position: relative;
 }

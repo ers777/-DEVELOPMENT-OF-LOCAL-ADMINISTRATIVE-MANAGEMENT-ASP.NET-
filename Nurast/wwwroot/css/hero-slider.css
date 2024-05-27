@@ -211,13 +211,13 @@ Single slide style
   background-repeat: no-repeat;
 }
 .cd-hero-slider li:first-of-type {
-  background-image: url(../img/slide_01.jpg);
+    background-image: url(../img/kopzhasar4.jpg);
 }
 .cd-hero-slider li:nth-of-type(2) {
-  background-image: url(../img/slide_02.jpg);
+    background-image: url(../img/kopzhasar2.jpg);
 }
 .cd-hero-slider li:nth-of-type(3) {
-  background-image: url(../img/slide_03.jpg);
+    background-image: url(../img/kopzhasar3.jpg);
 }
 .cd-hero-slider .cd-full-width,
 .cd-hero-slider .cd-half-width {

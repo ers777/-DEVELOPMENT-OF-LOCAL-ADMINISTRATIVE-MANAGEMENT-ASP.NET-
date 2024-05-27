@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\Nurast.csproj": {}
+    "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\Nurast.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\Nurast.csproj": {
+    "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\Nurast.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\Nurast.csproj",
+        "projectUniqueName": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\Nurast.csproj",
         "projectName": "Nurast",
-        "projectPath": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\Nurast.csproj",
+        "projectPath": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\Nurast.csproj",
         "packagesPath": "C:\\Users\\ROG\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\obj\\",
+        "outputPath": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -61,13 +61,21 @@
               "target": "Package",
               "version": "[1.0.0, )"
             },
+            "Firebase.DotNet.Auth": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
             "FirebaseAuthentication.net": {
               "target": "Package",
-              "version": "[4.1.0, )"
+              "version": "[3.7.2, )"
             },
             "FirebaseDatabase.net": {
               "target": "Package",
               "version": "[4.2.0, )"
+            },
+            "FirebaseStorage.net": {
+              "target": "Package",
+              "version": "[1.0.3, )"
             },
             "Microsoft.AspNetCore.Session": {
               "target": "Package",
@@ -76,6 +84,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.16, )"
+            },
+            "Plugin.Firebase.Storage": {
+              "target": "Package",
+              "version": "[2.0.3, )"
             }
           },
           "imports": [

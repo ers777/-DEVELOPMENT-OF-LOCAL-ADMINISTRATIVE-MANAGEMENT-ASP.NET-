@@ -34,20 +34,39 @@
           "lib/netstandard1.1/Firebase.Auth.dll": {}
         }
       },
-      "FirebaseAuthentication.net/4.1.0": {
+      "Firebase.DotNet.Auth/1.0.3": {
         "type": "package",
         "dependencies": {
-          "Newtonsoft.Json": "13.0.2"
+          "Firebase.Utils": "1.0.0",
+          "Newtonsoft.Json": "11.0.2"
         },
         "compile": {
-          "lib/netstandard2.0/Firebase.Auth.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.0/Firebase.Auth.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Firebase.Auth.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.0/Firebase.Auth.dll": {}
+        }
+      },
+      "Firebase.Utils/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Firebase.Utils.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Firebase.Utils.dll": {}
+        }
+      },
+      "FirebaseAuthentication.net/3.7.2": {
+        "type": "package",
+        "dependencies": {
+          "NETStandard.Library": "1.6.1",
+          "Newtonsoft.Json": "11.0.2"
+        },
+        "compile": {
+          "lib/netstandard1.1/Firebase.Auth.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.1/Firebase.Auth.dll": {}
         }
       },
       "FirebaseDatabase.net/4.2.0": {
@@ -66,6 +85,19 @@
           "lib/netstandard2.0/Firebase.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "FirebaseStorage.net/1.0.3": {
+        "type": "package",
+        "dependencies": {
+          "NETStandard.Library": "1.6.1",
+          "Newtonsoft.Json": "9.0.1"
+        },
+        "compile": {
+          "lib/netstandard1.1/Firebase.Storage.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.1/Firebase.Storage.dll": {}
         }
       },
       "FireSharp/2.0.4": {
@@ -2797,15 +2829,15 @@
           "System.Xml.XDocument": "4.3.0"
         }
       },
-      "Newtonsoft.Json/13.0.2": {
+      "Newtonsoft.Json/13.0.1": {
         "type": "package",
         "compile": {
-          "lib/net6.0/Newtonsoft.Json.dll": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/net6.0/Newtonsoft.Json.dll": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         }
@@ -2918,6 +2950,35 @@
         },
         "runtime": {
           "lib/netstandard2.0/NuGet.Versioning.dll": {}
+        }
+      },
+      "Plugin.Firebase.Core/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Plugin.Firebase.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Plugin.Firebase.Core.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Plugin.Firebase.Storage/2.0.3": {
+        "type": "package",
+        "dependencies": {
+          "Plugin.Firebase.Core": "2.0.1"
+        },
+        "compile": {
+          "lib/net6.0/Plugin.Firebase.Storage.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Plugin.Firebase.Storage.dll": {
+            "related": ".xml"
+          }
         }
       },
       "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
@@ -4782,20 +4843,40 @@
         "lib/netstandard1.1/Firebase.Auth.dll"
       ]
     },
-    "FirebaseAuthentication.net/4.1.0": {
-      "sha512": "pShi5v9cvT5bUWZDm261lO4uxJHvzOvpj46YHrL3uCB1WBeyCIcpoVakAQ2xHTu1dpmV86/BzSNRpqIGNp860g==",
+    "Firebase.DotNet.Auth/1.0.3": {
+      "sha512": "grRP+V4vcHuJXuP+dETgPGAmrRf+Ic8cxx8mBrU9//MhTmDSD0D6wmkP5QjMiFNkSLHoO2KH7+w49L0dh2zZfg==",
       "type": "package",
-      "path": "firebaseauthentication.net/4.1.0",
+      "path": "firebase.dotnet.auth/1.0.3",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "LICENSE.txt",
-        "README.md",
-        "firebase.png",
-        "firebaseauthentication.net.4.1.0.nupkg.sha512",
+        "firebase.dotnet.auth.1.0.3.nupkg.sha512",
+        "firebase.dotnet.auth.nuspec",
+        "lib/netstandard2.0/Firebase.Auth.dll"
+      ]
+    },
+    "Firebase.Utils/1.0.0": {
+      "sha512": "2gUz4A3nevPFbWXwwvR6fMn1SR+vW5V50q4v701rh/MpORKNbWFkooG7Dqf8jjxH5kPzVWGLLLOZ/x1ioqW5Pw==",
+      "type": "package",
+      "path": "firebase.utils/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "firebase.utils.1.0.0.nupkg.sha512",
+        "firebase.utils.nuspec",
+        "lib/netstandard2.0/Firebase.Utils.dll"
+      ]
+    },
+    "FirebaseAuthentication.net/3.7.2": {
+      "sha512": "d0Zc0tiE7NutI/jMX/T81LU/rX3HVBH8vtvKTbIeN6BCIQ+wipstz7tm5MnIgAeh4ehqCHTiVuMOHztqfCVCBQ==",
+      "type": "package",
+      "path": "firebaseauthentication.net/3.7.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "firebaseauthentication.net.3.7.2.nupkg.sha512",
         "firebaseauthentication.net.nuspec",
-        "lib/netstandard2.0/Firebase.Auth.dll",
-        "lib/netstandard2.0/Firebase.Auth.xml"
+        "lib/netstandard1.1/Firebase.Auth.dll"
       ]
     },
     "FirebaseDatabase.net/4.2.0": {
@@ -4809,6 +4890,18 @@
         "firebasedatabase.net.nuspec",
         "lib/netstandard2.0/Firebase.dll",
         "lib/netstandard2.0/Firebase.xml"
+      ]
+    },
+    "FirebaseStorage.net/1.0.3": {
+      "sha512": "SupDHNUwNqcVwEo/HdFEWAXveQe3fU16q4wrrCxUVwP0a77zaddKp7vo2sHIW56DAsJn/gUfjDK3w0MuBhvzjQ==",
+      "type": "package",
+      "path": "firebasestorage.net/1.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "firebasestorage.net.1.0.3.nupkg.sha512",
+        "firebasestorage.net.nuspec",
+        "lib/netstandard1.1/Firebase.Storage.dll"
       ]
     },
     "FireSharp/2.0.4": {
@@ -8163,15 +8256,14 @@
         "netstandard.library.nuspec"
       ]
     },
-    "Newtonsoft.Json/13.0.2": {
-      "sha512": "R2pZ3B0UjeyHShm9vG+Tu0EBb2lC8b0dFzV9gVn50ofHXh9Smjk6kTn7A/FdAsC8B5cKib1OnGYOXxRBz5XQDg==",
+    "Newtonsoft.Json/13.0.1": {
+      "sha512": "ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
       "type": "package",
-      "path": "newtonsoft.json/13.0.2",
+      "path": "newtonsoft.json/13.0.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.md",
-        "README.md",
         "lib/net20/Newtonsoft.Json.dll",
         "lib/net20/Newtonsoft.Json.xml",
         "lib/net35/Newtonsoft.Json.dll",
@@ -8180,15 +8272,13 @@
         "lib/net40/Newtonsoft.Json.xml",
         "lib/net45/Newtonsoft.Json.dll",
         "lib/net45/Newtonsoft.Json.xml",
-        "lib/net6.0/Newtonsoft.Json.dll",
-        "lib/net6.0/Newtonsoft.Json.xml",
         "lib/netstandard1.0/Newtonsoft.Json.dll",
         "lib/netstandard1.0/Newtonsoft.Json.xml",
         "lib/netstandard1.3/Newtonsoft.Json.dll",
         "lib/netstandard1.3/Newtonsoft.Json.xml",
         "lib/netstandard2.0/Newtonsoft.Json.dll",
         "lib/netstandard2.0/Newtonsoft.Json.xml",
-        "newtonsoft.json.13.0.2.nupkg.sha512",
+        "newtonsoft.json.13.0.1.nupkg.sha512",
         "newtonsoft.json.nuspec",
         "packageIcon.png"
       ]
@@ -8330,6 +8420,43 @@
         "lib/netstandard2.0/NuGet.Versioning.dll",
         "nuget.versioning.6.6.1.nupkg.sha512",
         "nuget.versioning.nuspec"
+      ]
+    },
+    "Plugin.Firebase.Core/2.0.1": {
+      "sha512": "bO4LOnP45OToY2PHkeqSi9TFCKQaRmPLnmxQHeeiXCNLD8iNFqAs2MEFyAPQ47SANQJo4skRNsxHpmAtlexT4g==",
+      "type": "package",
+      "path": "plugin.firebase.core/2.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "icon.png",
+        "lib/net6.0-android31.0/Plugin.Firebase.Core.dll",
+        "lib/net6.0-android31.0/Plugin.Firebase.Core.xml",
+        "lib/net6.0-ios16.0/Plugin.Firebase.Core.dll",
+        "lib/net6.0-ios16.0/Plugin.Firebase.Core.xml",
+        "lib/net6.0/Plugin.Firebase.Core.dll",
+        "lib/net6.0/Plugin.Firebase.Core.xml",
+        "plugin.firebase.core.2.0.1.nupkg.sha512",
+        "plugin.firebase.core.nuspec"
+      ]
+    },
+    "Plugin.Firebase.Storage/2.0.3": {
+      "sha512": "Jqza0UC/UnlhZQHD38Sway8Eea0IXlY5gvpJ835pDVC26vQZ4vBAQakBQttWpWa75UeIhQJtOmmvM8j4Ge6mhw==",
+      "type": "package",
+      "path": "plugin.firebase.storage/2.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "icon.png",
+        "lib/net6.0-android31.0/Plugin.Firebase.Storage.dll",
+        "lib/net6.0-android31.0/Plugin.Firebase.Storage.xml",
+        "lib/net6.0-ios16.1/Plugin.Firebase.Storage.dll",
+        "lib/net6.0-ios16.1/Plugin.Firebase.Storage.xml",
+        "lib/net6.0/Plugin.Firebase.Storage.dll",
+        "lib/net6.0/Plugin.Firebase.Storage.xml",
+        "plugin.firebase.storage.2.0.3.nupkg.sha512",
+        "plugin.firebase.storage.nuspec",
+        "storage.md"
       ]
     },
     "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
@@ -12880,10 +13007,13 @@
       "AspNetCore.Firebase.Authentication >= 2.0.1",
       "FireSharp >= 2.0.4",
       "Firebase.Auth >= 1.0.0",
-      "FirebaseAuthentication.net >= 4.1.0",
+      "Firebase.DotNet.Auth >= 1.0.3",
+      "FirebaseAuthentication.net >= 3.7.2",
       "FirebaseDatabase.net >= 4.2.0",
+      "FirebaseStorage.net >= 1.0.3",
       "Microsoft.AspNetCore.Session >= 2.2.0",
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 6.0.16"
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 6.0.16",
+      "Plugin.Firebase.Storage >= 2.0.3"
     ]
   },
   "packageFolders": {
@@ -12893,11 +13023,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\Nurast.csproj",
+      "projectUniqueName": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\Nurast.csproj",
       "projectName": "Nurast",
-      "projectPath": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\Nurast.csproj",
+      "projectPath": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\Nurast.csproj",
       "packagesPath": "C:\\Users\\ROG\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\obj\\",
+      "outputPath": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -12947,13 +13077,21 @@
             "target": "Package",
             "version": "[1.0.0, )"
           },
+          "Firebase.DotNet.Auth": {
+            "target": "Package",
+            "version": "[1.0.3, )"
+          },
           "FirebaseAuthentication.net": {
             "target": "Package",
-            "version": "[4.1.0, )"
+            "version": "[3.7.2, )"
           },
           "FirebaseDatabase.net": {
             "target": "Package",
             "version": "[4.2.0, )"
+          },
+          "FirebaseStorage.net": {
+            "target": "Package",
+            "version": "[1.0.3, )"
           },
           "Microsoft.AspNetCore.Session": {
             "target": "Package",
@@ -12962,6 +13100,10 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
             "version": "[6.0.16, )"
+          },
+          "Plugin.Firebase.Storage": {
+            "target": "Package",
+            "version": "[2.0.3, )"
           }
         },
         "imports": [

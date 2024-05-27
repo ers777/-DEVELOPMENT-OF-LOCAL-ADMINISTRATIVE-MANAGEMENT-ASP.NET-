@@ -7,17 +7,7 @@
 
 
 <form asp-action="Register" method="post">
-    @* <div>
-        <label>Email</label>
-        <input type="email" name="email" required />
-    </div>
-    <div>
-        <label>Password</label>
-        <input type="password" name="password" required />
-    </div>
-    <div>
-        <button type="submit">Register</button>
-    </div> *@
+
     <div class="login">
         <div class="login-screen">
             <div class="app-title">
@@ -25,6 +15,22 @@
             </div>
 
             <div class="login-form">
+               
+
+                <!-- Добавление поля ФИО -->
+                <div class="control-group">
+                    <input type="text" class="login-field" value="" placeholder="ФИО" id="full-name" name="fullName" required>
+                    <label class="login-field-icon fui-new" for="full-name"></label>
+                </div>
+
+                <!-- Добавление поля для номера телефона -->
+                <div class="control-group">
+                    <input type="text" class="login-field" value="" placeholder="Телефон нөмері" id="phone-number" name="phoneNumber" required>
+                    <label class="login-field-icon fui-chat" for="phone-number"></label>
+                </div>
+
+                <!-- Добавление выпадающего списка для пола -->
+
                 <div class="control-group">
                     <input type="text" class="login-field" value="" placeholder="email" id="login-name" name="email" required>
                     <label class="login-field-icon fui-user" for="login-name"></label>
@@ -34,8 +40,32 @@
                     <input type="password" class="login-field" value="" placeholder="password" id="login-pass" name="password" required>
                     <label class="login-field-icon fui-lock" for="login-pass"></label>
                 </div>
+                <div class="control-group">
+                    <input type="date" class="login-field" value="" placeholder="Туылған күн" id="date-of-birth" name="dateOfBirth" required>
+                    <label class="login-field-icon fui-calendar" for="date-of-birth"></label>
+                </div>
 
-                <button class="btn btn-primary btn-large btn-block"  type="submit">Register</button>
+                <div class="select">
+					<div class="control-group">
+						<select class="login-field" id="gender-select" name="gender">
+                            <option value="Ер">Ер</option>
+                            <option value="Әйел">Әйел</option>
+						</select>
+						<label class="login-field-icon fui-heart" for="gender-select"></label>
+					</div>
+
+					<!-- Добавление выпадающего списка для выбора категории -->
+					<div class="control-group">
+						<select class="login-field" id="category-select" name="category">
+                            <option value="Халық">Халық</option>
+                            <option value="Әкімшулук қызметкер">Әкімшулук қызметкер</option>
+                            <option value="Әкім">Әкім</option>
+						</select>
+						<label class="login-field-icon fui-tag" for="category-select"></label>
+					</div>
+                </div>
+               
+                <button class="btn btn-primary btn-large btn-block" type="submit">Register</button>
                 <a asp-controller="Home" asp-action="Login" class="login-link">Сізде аккаунт барма?</a>
             </div>
         </div>

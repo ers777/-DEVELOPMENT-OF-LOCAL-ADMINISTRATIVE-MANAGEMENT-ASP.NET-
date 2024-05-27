@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2G/CpqSsbsi+dao7dHX2C+k1GoJhbc4TE4lq/UzyHUI=",
+  "Hash": "tEPfzJU5Pdo0SJFKu8YdraDHlHe+v4l3aQEM8Lj36fE=",
   "Source": "Nurast",
   "BasePath": "_content/Nurast",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Nurast\\wwwroot",
       "Source": "Nurast",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Nurast.styles.css",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Nurast.styles.css",
       "SourceId": "Nurast",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "Nurast.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Nurast.styles.css"
+      "OriginalItemSpec": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Nurast.styles.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Nurast.bundle.scp.css",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Nurast.bundle.scp.css",
       "SourceId": "Nurast",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "Nurast.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Nurast.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Nurast.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\css\\bootstrap.css",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "css/bootstrap.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\css\\bootstrap.css.map",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "css/bootstrap.css.map",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\css\\bootstrap-theme.css",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\css\\bootstrap-theme.css",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "css/bootstrap-theme.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-theme.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\css\\bootstrap-theme.css.map",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\css\\bootstrap-theme.css.map",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "css/bootstrap-theme.css.map",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-theme.css.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\css\\bootstrap-theme.min.css",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\css\\bootstrap-theme.min.css",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "css/bootstrap-theme.min.css",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-theme.min.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\css\\fontAwesome.css",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\css\\fontAwesome.css",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "css/fontAwesome.css",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fontAwesome.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\css\\fonts\\flexslider-icon.eot",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\css\\fonts\\flexslider-icon.eot",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "css/fonts/flexslider-icon.eot",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\flexslider-icon.eot"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\css\\fonts\\flexslider-icon.svg",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\css\\fonts\\flexslider-icon.svg",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "css/fonts/flexslider-icon.svg",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\flexslider-icon.svg"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\css\\fonts\\flexslider-icon.ttf",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\css\\fonts\\flexslider-icon.ttf",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "css/fonts/flexslider-icon.ttf",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\flexslider-icon.ttf"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\css\\fonts\\flexslider-icon.woff",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\css\\fonts\\flexslider-icon.woff",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "css/fonts/flexslider-icon.woff",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\flexslider-icon.woff"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\css\\hero-slider.css",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\css\\hero-slider.css",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "css/hero-slider.css",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\css\\hero-slider.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\css\\reg.css",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\css\\reg.css",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "css/reg.css",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\css\\reg.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\css\\site.css",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\css\\tooplate-style.css",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\css\\tooplate-style.css",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "css/tooplate-style.css",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\css\\tooplate-style.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\favicon.ico",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\fonts\\FontAwesome.otf",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\fonts\\FontAwesome.otf",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "fonts/FontAwesome.otf",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\FontAwesome.otf"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\fonts\\fontawesome-webfont.eot",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "fonts/fontawesome-webfont.eot",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\fonts\\fontawesome-webfont.svg",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "fonts/fontawesome-webfont.svg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\fonts\\fontawesome-webfont.ttf",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\fonts\\fontawesome-webfont.woff",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\fonts\\fontawesome-webfont.woff2",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "fonts/fontawesome-webfont.woff2",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "fonts/glyphicons-halflings-regular.eot",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\glyphicons-halflings-regular.eot"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "fonts/glyphicons-halflings-regular.svg",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\glyphicons-halflings-regular.svg"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "fonts/glyphicons-halflings-regular.ttf",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\glyphicons-halflings-regular.ttf"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "fonts/glyphicons-halflings-regular.woff",
       "AssetKind": "All",
@@ -549,10 +549,67 @@
       "OriginalItemSpec": "wwwroot\\fonts\\glyphicons-halflings-regular.woff"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\arrow_vlevo.svg",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\Akim.jpeg",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
+      "BasePath": "_content/Nurast",
+      "RelativePath": "img/Akim.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Akim.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\akim.jpg",
+      "SourceId": "Nurast",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
+      "BasePath": "_content/Nurast",
+      "RelativePath": "img/akim.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\akim.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\Akim2.jpeg",
+      "SourceId": "Nurast",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
+      "BasePath": "_content/Nurast",
+      "RelativePath": "img/Akim2.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Akim2.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\arrow_vlevo.svg",
+      "SourceId": "Nurast",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/arrow_vlevo.svg",
       "AssetKind": "All",
@@ -568,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\img\\arrow_vlevo.svg"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\arrrow_pravo.svg",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\arrrow_pravo.svg",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/arrrow_pravo.svg",
       "AssetKind": "All",
@@ -587,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\img\\arrrow_pravo.svg"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\black_logo.png",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\black_logo.png",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/black_logo.png",
       "AssetKind": "All",
@@ -606,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\img\\black_logo.png"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\blog_01.jpg",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\blog_01.jpg",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/blog_01.jpg",
       "AssetKind": "All",
@@ -625,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog_01.jpg"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\blog_02.jpg",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\blog_02.jpg",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/blog_02.jpg",
       "AssetKind": "All",
@@ -644,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog_02.jpg"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\blog_03.jpg",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\blog_03.jpg",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/blog_03.jpg",
       "AssetKind": "All",
@@ -663,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog_03.jpg"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\blog-bg.png",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\blog-bg.png",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/blog-bg.png",
       "AssetKind": "All",
@@ -682,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog-bg.png"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\close.png",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\close.png",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/close.png",
       "AssetKind": "All",
@@ -701,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\img\\close.png"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\collage.png",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\collage.png",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/collage.png",
       "AssetKind": "All",
@@ -720,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\img\\collage.png"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\contact-bg.png",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\contact-bg.png",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/contact-bg.png",
       "AssetKind": "All",
@@ -739,10 +796,29 @@
       "OriginalItemSpec": "wwwroot\\img\\contact-bg.png"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\first-service-main.png",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\eco.jpg",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
+      "BasePath": "_content/Nurast",
+      "RelativePath": "img/eco.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\eco.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\first-service-main.png",
+      "SourceId": "Nurast",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/first-service-main.png",
       "AssetKind": "All",
@@ -758,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\img\\first-service-main.png"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\first-service-white.png",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\first-service-white.png",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/first-service-white.png",
       "AssetKind": "All",
@@ -777,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\img\\first-service-white.png"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\fourth-service-main.png",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\fourth-service-main.png",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/fourth-service-main.png",
       "AssetKind": "All",
@@ -796,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\img\\fourth-service-main.png"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\fourth-service-white.png",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\fourth-service-white.png",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/fourth-service-white.png",
       "AssetKind": "All",
@@ -815,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\img\\fourth-service-white.png"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\kop_Amita.png",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\kop_Amita.png",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/kop_Amita.png",
       "AssetKind": "All",
@@ -834,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\img\\kop_Amita.png"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\Kop_Amita_white.png",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\Kop_Amita_white.png",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/Kop_Amita_white.png",
       "AssetKind": "All",
@@ -853,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Kop_Amita_white.png"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\kop_DR_sugiyama.png",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\kop_DR_sugiyama.png",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/kop_DR_sugiyama.png",
       "AssetKind": "All",
@@ -872,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\img\\kop_DR_sugiyama.png"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\kop_ss.jpg",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\kop_ss.jpg",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/kop_ss.jpg",
       "AssetKind": "All",
@@ -891,10 +967,86 @@
       "OriginalItemSpec": "wwwroot\\img\\kop_ss.jpg"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\loading.gif",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\kopzhasar1.jpg",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
+      "BasePath": "_content/Nurast",
+      "RelativePath": "img/kopzhasar1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\kopzhasar1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\kopzhasar2.jpg",
+      "SourceId": "Nurast",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
+      "BasePath": "_content/Nurast",
+      "RelativePath": "img/kopzhasar2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\kopzhasar2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\kopzhasar3.jpg",
+      "SourceId": "Nurast",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
+      "BasePath": "_content/Nurast",
+      "RelativePath": "img/kopzhasar3.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\kopzhasar3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\kopzhasar4.jpg",
+      "SourceId": "Nurast",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
+      "BasePath": "_content/Nurast",
+      "RelativePath": "img/kopzhasar4.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\kopzhasar4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\loading.gif",
+      "SourceId": "Nurast",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/loading.gif",
       "AssetKind": "All",
@@ -910,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\img\\loading.gif"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\next.png",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\next.png",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/next.png",
       "AssetKind": "All",
@@ -929,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\img\\next.png"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\portfolio_01.jpg",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\portfolio_01.jpg",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/portfolio_01.jpg",
       "AssetKind": "All",
@@ -948,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio_01.jpg"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\portfolio_02.jpg",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\portfolio_02.jpg",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/portfolio_02.jpg",
       "AssetKind": "All",
@@ -967,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio_02.jpg"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\portfolio_03.jpg",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\portfolio_03.jpg",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/portfolio_03.jpg",
       "AssetKind": "All",
@@ -986,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio_03.jpg"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\portfolio_04.jpg",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\portfolio_04.jpg",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/portfolio_04.jpg",
       "AssetKind": "All",
@@ -1005,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio_04.jpg"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\portfolio_05.jpg",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\portfolio_05.jpg",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/portfolio_05.jpg",
       "AssetKind": "All",
@@ -1024,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio_05.jpg"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\portfolio_06.jpg",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\portfolio_06.jpg",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/portfolio_06.jpg",
       "AssetKind": "All",
@@ -1043,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio_06.jpg"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\portfolio_07.jpg",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\portfolio_07.jpg",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/portfolio_07.jpg",
       "AssetKind": "All",
@@ -1062,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio_07.jpg"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\portfolio_08.jpg",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\portfolio_08.jpg",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/portfolio_08.jpg",
       "AssetKind": "All",
@@ -1081,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio_08.jpg"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\portfolio_big_01.jpg",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\portfolio_big_01.jpg",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/portfolio_big_01.jpg",
       "AssetKind": "All",
@@ -1100,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio_big_01.jpg"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\portfolio_big_02.jpg",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\portfolio_big_02.jpg",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/portfolio_big_02.jpg",
       "AssetKind": "All",
@@ -1119,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio_big_02.jpg"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\portfolio_big_03.jpg",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\portfolio_big_03.jpg",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/portfolio_big_03.jpg",
       "AssetKind": "All",
@@ -1138,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio_big_03.jpg"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\portfolio_big_04.jpg",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\portfolio_big_04.jpg",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/portfolio_big_04.jpg",
       "AssetKind": "All",
@@ -1157,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio_big_04.jpg"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\portfolio_big_05.jpg",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\portfolio_big_05.jpg",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/portfolio_big_05.jpg",
       "AssetKind": "All",
@@ -1176,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio_big_05.jpg"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\portfolio_big_06.jpg",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\portfolio_big_06.jpg",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/portfolio_big_06.jpg",
       "AssetKind": "All",
@@ -1195,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio_big_06.jpg"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\portfolio_big_07.jpg",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\portfolio_big_07.jpg",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/portfolio_big_07.jpg",
       "AssetKind": "All",
@@ -1214,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio_big_07.jpg"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\portfolio_big_08.jpg",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\portfolio_big_08.jpg",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/portfolio_big_08.jpg",
       "AssetKind": "All",
@@ -1233,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio_big_08.jpg"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\prev.png",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\prev.png",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/prev.png",
       "AssetKind": "All",
@@ -1252,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\img\\prev.png"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\second-service-main.png",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\second-service-main.png",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/second-service-main.png",
       "AssetKind": "All",
@@ -1271,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\img\\second-service-main.png"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\second-service-white.png",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\second-service-white.png",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/second-service-white.png",
       "AssetKind": "All",
@@ -1290,67 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\img\\second-service-white.png"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\slide_01.jpg",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\third-service-main.png",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
-      "BasePath": "_content/Nurast",
-      "RelativePath": "img/slide_01.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\slide_01.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\slide_02.jpg",
-      "SourceId": "Nurast",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
-      "BasePath": "_content/Nurast",
-      "RelativePath": "img/slide_02.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\slide_02.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\slide_03.jpg",
-      "SourceId": "Nurast",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
-      "BasePath": "_content/Nurast",
-      "RelativePath": "img/slide_03.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\slide_03.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\third-service-main.png",
-      "SourceId": "Nurast",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/third-service-main.png",
       "AssetKind": "All",
@@ -1366,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\img\\third-service-main.png"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\third-service-white.png",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\third-service-white.png",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/third-service-white.png",
       "AssetKind": "All",
@@ -1385,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\img\\third-service-white.png"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\Tourism.jpeg",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\Tourism.jpeg",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/Tourism.jpeg",
       "AssetKind": "All",
@@ -1404,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Tourism.jpeg"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\what-we-do-bg.png",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\what-we-do-bg.png",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/what-we-do-bg.png",
       "AssetKind": "All",
@@ -1423,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\img\\what-we-do-bg.png"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\what-we-do-right-image.png",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\what-we-do-right-image.png",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/what-we-do-right-image.png",
       "AssetKind": "All",
@@ -1442,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\img\\what-we-do-right-image.png"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\img\\white_logo.png",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\white_logo.png",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "img/white_logo.png",
       "AssetKind": "All",
@@ -1461,10 +1556,29 @@
       "OriginalItemSpec": "wwwroot\\img\\white_logo.png"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\js\\main.js",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\img\\zhergilikti_onim.jpg",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
+      "BasePath": "_content/Nurast",
+      "RelativePath": "img/zhergilikti_onim.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\zhergilikti_onim.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\js\\main.js",
+      "SourceId": "Nurast",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "js/main.js",
       "AssetKind": "All",
@@ -1480,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\js\\plugins.js",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\js\\plugins.js",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "js/plugins.js",
       "AssetKind": "All",
@@ -1499,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\js\\plugins.js"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\js\\site.js",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1518,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\js\\slick.min.js",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\js\\slick.min.js",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "js/slick.min.js",
       "AssetKind": "All",
@@ -1537,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\js\\slick.min.js"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\js\\vendor\\bootstrap.js",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\js\\vendor\\bootstrap.js",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "js/vendor/bootstrap.js",
       "AssetKind": "All",
@@ -1556,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\js\\vendor\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\js\\vendor\\bootstrap.min.js",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\js\\vendor\\bootstrap.min.js",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "js/vendor/bootstrap.min.js",
       "AssetKind": "All",
@@ -1575,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\js\\vendor\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\js\\vendor\\jquery-1.11.2.min.js",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\js\\vendor\\jquery-1.11.2.min.js",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "js/vendor/jquery-1.11.2.min.js",
       "AssetKind": "All",
@@ -1594,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\js\\vendor\\jquery-1.11.2.min.js"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\js\\vendor\\modernizr-2.8.3-respond-1.4.2.min.js",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\js\\vendor\\modernizr-2.8.3-respond-1.4.2.min.js",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "js/vendor/modernizr-2.8.3-respond-1.4.2.min.js",
       "AssetKind": "All",
@@ -1613,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\js\\vendor\\modernizr-2.8.3-respond-1.4.2.min.js"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\js\\vendor\\npm.js",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\js\\vendor\\npm.js",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "js/vendor/npm.js",
       "AssetKind": "All",
@@ -1632,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\js\\vendor\\npm.js"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1651,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1670,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1689,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1708,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1727,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1746,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1765,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1784,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1803,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1822,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1841,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1860,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1879,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1898,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1917,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1936,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1955,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1974,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1993,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2012,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2031,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2050,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2069,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2088,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2107,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2126,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2145,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2164,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2183,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2202,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2221,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2240,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2259,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2278,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2297,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2316,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2335,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2354,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2373,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2392,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2411,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2430,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2449,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2468,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2487,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2506,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2525,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2544,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2563,10 +2677,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2582,10 +2696,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2601,10 +2715,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2620,10 +2734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2639,10 +2753,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2658,10 +2772,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2677,10 +2791,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2696,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2715,10 +2829,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\slick\\ajax-loader.gif",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\slick\\ajax-loader.gif",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "slick/ajax-loader.gif",
       "AssetKind": "All",
@@ -2734,10 +2848,10 @@
       "OriginalItemSpec": "wwwroot\\slick\\ajax-loader.gif"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\slick\\config.rb",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\slick\\config.rb",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "slick/config.rb",
       "AssetKind": "All",
@@ -2753,10 +2867,10 @@
       "OriginalItemSpec": "wwwroot\\slick\\config.rb"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\slick\\fonts\\slick.eot",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\slick\\fonts\\slick.eot",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "slick/fonts/slick.eot",
       "AssetKind": "All",
@@ -2772,10 +2886,10 @@
       "OriginalItemSpec": "wwwroot\\slick\\fonts\\slick.eot"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\slick\\fonts\\slick.svg",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\slick\\fonts\\slick.svg",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "slick/fonts/slick.svg",
       "AssetKind": "All",
@@ -2791,10 +2905,10 @@
       "OriginalItemSpec": "wwwroot\\slick\\fonts\\slick.svg"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\slick\\fonts\\slick.ttf",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\slick\\fonts\\slick.ttf",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "slick/fonts/slick.ttf",
       "AssetKind": "All",
@@ -2810,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\slick\\fonts\\slick.ttf"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\slick\\fonts\\slick.woff",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\slick\\fonts\\slick.woff",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "slick/fonts/slick.woff",
       "AssetKind": "All",
@@ -2829,10 +2943,10 @@
       "OriginalItemSpec": "wwwroot\\slick\\fonts\\slick.woff"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\slick\\slick.css",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\slick\\slick.css",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "slick/slick.css",
       "AssetKind": "All",
@@ -2848,10 +2962,10 @@
       "OriginalItemSpec": "wwwroot\\slick\\slick.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\slick\\slick.js",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\slick\\slick.js",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "slick/slick.js",
       "AssetKind": "All",
@@ -2867,10 +2981,10 @@
       "OriginalItemSpec": "wwwroot\\slick\\slick.js"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\slick\\slick.less",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\slick\\slick.less",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "slick/slick.less",
       "AssetKind": "All",
@@ -2886,10 +3000,10 @@
       "OriginalItemSpec": "wwwroot\\slick\\slick.less"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\slick\\slick.min.js",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\slick\\slick.min.js",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "slick/slick.min.js",
       "AssetKind": "All",
@@ -2905,10 +3019,10 @@
       "OriginalItemSpec": "wwwroot\\slick\\slick.min.js"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\slick\\slick.scss",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\slick\\slick.scss",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "slick/slick.scss",
       "AssetKind": "All",
@@ -2924,10 +3038,10 @@
       "OriginalItemSpec": "wwwroot\\slick\\slick.scss"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\slick\\slick-theme.css",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\slick\\slick-theme.css",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "slick/slick-theme.css",
       "AssetKind": "All",
@@ -2943,10 +3057,10 @@
       "OriginalItemSpec": "wwwroot\\slick\\slick-theme.css"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\slick\\slick-theme.less",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\slick\\slick-theme.less",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "slick/slick-theme.less",
       "AssetKind": "All",
@@ -2962,10 +3076,10 @@
       "OriginalItemSpec": "wwwroot\\slick\\slick-theme.less"
     },
     {
-      "Identity": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\slick\\slick-theme.scss",
+      "Identity": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\slick\\slick-theme.scss",
       "SourceId": "Nurast",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ROG\\source\\repos\\Nurast\\Nurast\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ROG\\Desktop\\Nurast\\Nurast\\wwwroot\\",
       "BasePath": "_content/Nurast",
       "RelativePath": "slick/slick-theme.scss",
       "AssetKind": "All",

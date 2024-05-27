@@ -1,0 +1,272 @@
+﻿@{
+    ViewData["Title"] = "ProfileAkim";
+}
+@model List<Nurast.Models.HatModelcs>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile</title>
+    <style>
+        body {
+            background-color: #f9f9fa;
+        }
+
+        .padding {
+            padding: 3rem !important;
+        }
+
+        .user-card-full {
+            overflow: hidden;
+        }
+
+        .card {
+            border-radius: 5px;
+            -webkit-box-shadow: 0 1px 20px 0 rgba(69,90,100,0.08);
+            box-shadow: 0 1px 20px 0 rgba(69,90,100,0.08);
+            border: none;
+            margin-bottom: 30px;
+        }
+
+        .m-r-0 {
+            margin-right: 0px;
+        }
+
+        .m-l-0 {
+            margin-left: 0px;
+        }
+
+        .user-card-full .user-profile {
+            border-radius: 5px 0 0 5px;
+        }
+
+        .bg-c-lite-green {
+            background: -webkit-gradient(linear, left top, right top, from(#f29263), to(#ee5a6f));
+            background: linear-gradient(to right, #ee5a6f, #f29263);
+        }
+
+        .user-profile {
+            padding: 20px 0;
+            position: relative;
+        }
+
+        .card-block {
+            padding: 1.25rem;
+        }
+
+        .m-b-25 {
+            margin-bottom: 25px;
+        }
+
+        .img-radius {
+            border-radius: 5px;
+        }
+
+        h6 {
+            font-size: 16px;
+        }
+
+        .card .card-block p {
+            line-height: 25px;
+        }
+
+        p {
+            font-size: 16px;
+        }
+
+        .card-block {
+            padding: 1.25rem;
+        }
+
+        .b-b-default {
+            border-bottom: 1px solid #e0e0e0;
+        }
+
+        .m-b-20 {
+            margin-bottom: 20px;
+        }
+
+        .p-b-5 {
+            padding-bottom: 5px !important;
+        }
+
+        .m-b-10 {
+            margin-bottom: 10px;
+        }
+
+        .text-muted {
+            color: #919aa3 !important;
+        }
+
+        .f-w-600 {
+            font-weight: 600;
+        }
+
+        .m-t-40 {
+            margin-top: 20px;
+        }
+
+        .user-card-full .social-link li {
+            display: inline-block;
+        }
+
+            .user-card-full .social-link li a {
+                font-size: 22px;
+                margin: 0 10px 0 0;
+                -webkit-transition: all 0.3s ease-in-out;
+                transition: all 0.3s ease-in-out;
+            }
+
+        .text-center {
+            text-align: center !important;
+        }
+
+        .btn-back {
+            display: inline-block;
+            padding: 10px 20px;
+            color: #fff;
+            background-color: #3498db;
+            text-decoration: none;
+            border-radius: 4px;
+            transition: background-color 0.3s;
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            font-size: 16px;
+        }
+
+            .btn-back:hover {
+                background-color: #2980b9;
+            }
+
+        .message-container {
+            display: flex;
+            flex-wrap: nowrap;
+            overflow-x: auto;
+            padding-bottom: 20px;
+        }
+
+        .message-card {
+            padding: 10px;
+            border: 1px solid #e0e0e0;
+            border-radius: 5px;
+            margin: 10px;
+            cursor: pointer;
+            background-color: #fff;
+            -webkit-box-shadow: 0 1px 20px 0 rgba(69,90,100,0.08);
+            box-shadow: 0 1px 20px 0 rgba(69,90,100,0.08);
+            flex: 0 0 auto;
+            width: 200px;
+        }
+
+        .message-content {
+            display: none;
+            padding: 10px;
+            border: 1px solid #e0e0e0;
+            border-radius: 5px;
+            margin-top: 10px;
+            background-color: #f9f9fa;
+        }
+
+    </style>
+</head>
+<body>
+    @{
+        var email = Context.Request.Cookies["email"];
+        var fullName = Context.Request.Cookies["fullName"];
+        var dateOfBirth = Context.Request.Cookies["dateOfBirth"];
+        var gender = Context.Request.Cookies["gender"];
+        var phoneNumber = Context.Request.Cookies["phoneNumber"];
+        var category = Context.Request.Cookies["category"];
+    }
+    <div class="page-content page-container" id="page-content">
+        <div class="padding">
+            <div class="row container d-flex justify-content-center">
+                <div class="col-xl-6 col-md-12">
+                    <div class="card user-card-full">
+                        <div class="row m-l-0 m-r-0">
+                            <div class="col-sm-4 bg-c-lite-green user-profile">
+                                <div class="card-block text-center text-white">
+                                    <div class="m-b-25">
+                                        <img src="https://img.icons8.com/bubbles/100/000000/user.png" class="img-radius" alt="User-Profile-Image">
+                                    </div>
+                                    <h6 class="f-w-600">@fullName</h6>
+                                    <p>@category</p>
+                                    <a asp-controller="Home" asp-action="Back" class="btn-back">шыгу</a>
+                                    <i class=" mdi mdi-square-edit-outline feather icon-edit m-t-10 f-16"></i>
+                                </div>
+                            </div>
+                            <div class="col-sm-8">
+                                <div class="card-block">
+                                    <h6 class="m-b-20 p-b-5 b-b-default f-w-600 text-center">Пайдаланушы туралы ақпарат</h6>
+                                    <div class="row">
+                                        <div class="col-sm-6">
+                                            <p class="m-b-10 f-w-600">Туылған күні</p>
+                                            <h6 class="text-muted f-w-400">@dateOfBirth</h6>
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <p class="m-b-10 f-w-600">Email</p>
+                                            <h6 class="text-muted f-w-400">@email</h6>
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <p class="m-b-10 f-w-600">Телефон нөмері</p>
+                                            <h6 class="text-muted f-w-400">@phoneNumber</h6>
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <p class="m-b-10 f-w-600">Жынысы</p>
+                                            <h6 class="text-muted f-w-400">@gender</h6>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Message Cards Section -->
+                    <div class="message-container" id="elements">
+                        @foreach (var message in Model)
+                        {
+                            <div class="message-card" onclick="toggleMessage('message_@message.Title.GetHashCode()')">
+                                <p><strong>Тақырып:</strong> @message.Title</p>
+                                <p><strong>Дата:</strong> @message.Date</p>
+                                <p><strong></strong> @message.FullName</p>
+                            </div>
+                        }
+                    </div>
+
+                    <!-- Message Contents -->
+                    @foreach (var message in Model)
+                    {
+                        <div id="message_@message.Title.GetHashCode()" class="message-content">
+                            <h4>@message.Title</h4>
+                            <p>@message.Text</p>
+                            <p><strong>Дата:</strong> @message.Date</p>
+                            <p><strong></strong> @message.Email</p>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function toggleMessage(id) {
+            // Close any currently open message content
+            var openContent = document.querySelector('.message-content:not([style*="display: none"])');
+            if (openContent && openContent.id !== id) {
+                openContent.style.display = 'none';
+            }
+
+            // Toggle the clicked message content
+            var content = document.getElementById(id);
+            if (content.style.display === "none" || content.style.display === "") {
+                content.style.display = "block";
+            } else {
+                content.style.display = "none";
+            }
+        }
+    </script>
+</body>
+</html>
